@@ -1,0 +1,29 @@
+{
+  "id": "d3f81352-6244-48a4-96a0-a89c5abbb581",
+  "name": "Coffee MR sample",
+  "publisher": "BusinessCentral",
+  "version": "1.0.9.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./coffeeLogo.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "runtime": "10.1",
+  "idRanges": [
+    {
+      "from": 70030,
+      "to": 70040
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
