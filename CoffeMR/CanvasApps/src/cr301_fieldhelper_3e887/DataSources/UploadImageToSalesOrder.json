@@ -1,0 +1,10 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_logicflows",
+    "FlowNameId": "c635495f-61ef-46e4-878e-726f01972880",
+    "Name": "UploadImageToSalesOrder",
+    "ServiceKind": "ConnectedWadl",
+    "Type": "ServiceInfo",
+    "WorkflowEntityId": "aba81736-12d9-ed11-a7c7-000d3a991110"
+  }
+]

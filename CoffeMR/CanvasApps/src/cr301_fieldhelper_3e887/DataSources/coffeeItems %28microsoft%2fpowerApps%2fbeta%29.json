@@ -1,0 +1,32 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_dynamicssmbsaas",
+    "CdpRevision": {
+      "BaseUrl": "/v3",
+      "LastChangedTimeString": "2023-10-30T19:10:03.9940000Z",
+      "RevisionNumber": 3
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "baseUnitOfMeasureCode": "Base Unit Of Measure Code",
+      "displayName": "DisplayName",
+      "has3DModel": "Has 3D Model",
+      "id": "System ID",
+      "inventory": "Inventory",
+      "isAvailableForFieldWorkers": "Is available for field workers",
+      "itemCategoryCode": "Item Category Code",
+      "itemCategoryName": "Item Category Name",
+      "itemImageText": "Picture reference",
+      "longDescription": "Long description",
+      "model3D": "3D Model",
+      "number": "Number",
+      "picture": "Picture",
+      "unitPrice": "Unit price"
+    },
+    "DatasetName": "SandboxUK,7368d553-0c5c-ee11-8df4-6045bdc89477",
+    "EncodeDataset": true,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "coffeeItems (microsoft/powerApps/beta)",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_dynamicssmbsaas",
+    "CdpRevision": {
+      "BaseUrl": "/v3",
+      "LastChangedTimeString": "2023-03-24T16:12:47.5350000Z",
+      "RevisionNumber": 3
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "addressLine1": "Address Line 1",
+      "addressLine2": "Address Line 2",
+      "balanceDue": "Balance Due",
+      "blocked": "Blocked",
+      "city": "City",
+      "country": "Country/Region Code",
+      "creditLimit": "Credit Limit",
+      "currencyCode": "Currency Code",
+      "currencyId": "Currency Id",
+      "displayName": "Display Name",
+      "email": "Email",
+      "id": "Id",
+      "lastModifiedDateTime": "Last Modified Date",
+      "number": "No.",
+      "paymentMethodId": "Payment Method Id",
+      "paymentTermsId": "Payment Terms Id",
+      "phoneNumber": "Phone No.",
+      "postalCode": "ZIP Code",
+      "salespersonCode": "Salesperson Code",
+      "shipmentMethodId": "Shipment Method Id",
+      "state": "State",
+      "taxAreaDisplayName": "Tax Area Display Name",
+      "taxAreaId": "Tax Area Id",
+      "taxLiable": "Tax Liable",
+      "taxRegistrationNumber": "Tax Registration No.",
+      "type": "Type",
+      "website": "Website"
+    },
+    "DatasetName": "SandboxUK,7368d553-0c5c-ee11-8df4-6045bdc89477",
+    "EncodeDataset": true,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "customers (v2.0)",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]

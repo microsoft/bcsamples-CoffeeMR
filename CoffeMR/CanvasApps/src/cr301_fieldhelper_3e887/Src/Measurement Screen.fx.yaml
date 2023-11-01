@@ -1,0 +1,204 @@
+"'Measurement Screen' As screen":
+    Fill: =varTheme.primaryColor
+    OnVisible: |-
+        =UpdateContext({ctxShowEditDialog: false});
+        If(CountRows(colMeasurements) = 0,
+            ClearCollect(colMeasurements, [
+                    {name: "Width", value: varMeasurement.BoundingWidth},
+                    {name: "Height", value: varMeasurement.Height},
+                    {name: "Depth", value: varMeasurement.BoundingDepth},
+                ]
+            )
+        );
+
+    conMeasurementContent As groupContainer.verticalAutoLayoutContainer:
+        Height: =Parent.Height - 40
+        LayoutAlignItems: =LayoutAlignItems.Center
+        LayoutDirection: =LayoutDirection.Vertical
+        LayoutGap: =5
+        LayoutJustifyContent: =LayoutJustifyContent.SpaceBetween
+        LayoutMode: =LayoutMode.Auto
+        Width: =Parent.Width
+        ZIndex: =1
+
+        conMeasurementHeader As groupContainer.manualLayoutContainer:
+            AlignInContainer: =AlignInContainer.SetByContainer
+            FillPortions: =0
+            Height: =100 
+            LayoutMinHeight: =100
+            LayoutMinWidth: =250
+            Width: =Parent.Width
+            ZIndex: =1
+
+            Label2 As label:
+                Align: =Align.Center
+                Color: =Color.White
+                Font: =varTheme.font
+                Height: =Parent.Height
+                Size: =34
+                Text: ="MR Measurement"
+                Width: =Parent.Width
+                ZIndex: =1
+
+            Icon3 As icon.Cancel:
+                Color: =Color.White
+                Height: =100
+                Icon: =Icon.ChevronLeft
+                OnSelect: =Back(ScreenTransition.UnCoverRight)
+                PaddingBottom: =30
+                PaddingLeft: =30
+                PaddingRight: =30
+                PaddingTop: =30
+                Width: =100
+                ZIndex: =2
+
+        imgMeasurements As image:
+            BorderColor: =RGBA(237, 237, 237, 1)
+            BorderThickness: =2
+            Height: =Parent.Height * 0.5
+            Image: =varImage.ImageURI
+            ImagePosition: =ImagePosition.Fill
+            RadiusBottomLeft: =10
+            RadiusBottomRight: =10
+            RadiusTopLeft: =10
+            RadiusTopRight: =10
+            Width: =Parent.Width * 0.7
+            ZIndex: =2
+
+        "galMeasurements As gallery.'BrowseLayout_Vertical_TwoTextOneImageVariant_ver4.0'":
+            AlignInContainer: =AlignInContainer.SetByContainer
+            FillPortions: =0
+            Height: =250
+            Items: =colMeasurements
+            Layout: =Layout.Vertical
+            LayoutMinHeight: =287
+            LayoutMinWidth: =320
+            TemplatePadding: =10
+            TemplateSize: =70
+            ZIndex: =3
+
+            conMeasurementContainer As groupContainer.manualLayoutContainer:
+                BorderColor: =RGBA(255, 255, 255, 1)
+                BorderThickness: =1
+                Height: =Parent.TemplateHeight
+                Width: =Parent.TemplateWidth * 0.6
+                X: =Parent.Width/2 - Self.Width/2
+                ZIndex: =6
+
+                lblMeasurement As label:
+                    Align: =Align.Center
+                    Color: =RGBA(255, 255, 255, 1)
+                    Height: =70
+                    Size: =21
+                    Text: =ThisItem.name & " " & ThisItem.value & "cm"
+                    Width: =Parent.Width
+                    ZIndex: =1
+
+                btnMeasurementOverlay As button:
+                    Fill: =Color.Transparent
+                    Height: =Parent.Height 
+                    HoverBorderColor: =Color.LightGray
+                    HoverFill: =ColorFade(Self.Fill, -20%)
+                    OnSelect: |
+                        =UpdateContext({ctxSelectedMeasurement: ThisItem, ctxShowEditDialog: true});
+                    PaddingBottom: =0
+                    PaddingLeft: =0
+                    PaddingRight: =0
+                    PaddingTop: =0
+                    RadiusBottomLeft: =0
+                    RadiusBottomRight: =0
+                    RadiusTopLeft: =0
+                    RadiusTopRight: =0
+                    Size: =20
+                    Text: =
+                    Width: =Parent.Width 
+                    ZIndex: =2
+
+        btnUseAsFilter As button:
+            BorderThickness: =0
+            Color: =varTheme.primaryColor
+            Fill: =Color.White
+            Height: =80
+            HoverColor: =varTheme.primaryColor
+            HoverFill: =Self.Fill
+            OnSelect: =Navigate('Coffee Machines List Screen', ScreenTransition.Cover);
+            RadiusBottomLeft: =80
+            RadiusBottomRight: =80
+            RadiusTopLeft: =80
+            RadiusTopRight: =80
+            Size: =20
+            Text: ="Search Products"
+            Width: =260
+            ZIndex: =4
+
+    conEditOverlay As groupContainer.manualLayoutContainer:
+        Fill: =RGBA(219, 219, 219, 0.6)
+        Height: =Parent.Height
+        Visible: =ctxShowEditDialog
+        Width: =Parent.Width
+        ZIndex: =2
+
+        recDialogBackground As rectangle:
+            BorderColor: =RGBA(128, 128, 128, 1)
+            BorderThickness: =1
+            Fill: =RGBA(255, 255, 255, 1)
+            Height: =344
+            Width: =496
+            X: =71
+            Y: =392
+            ZIndex: =1
+
+        inpMeasurementValue As text:
+            Default: =ctxSelectedMeasurement.value
+            Format: =TextFormat.Number
+            Height: =70
+            Size: =26
+            Width: =353
+            X: =142
+            Y: =487
+            ZIndex: =3
+
+        lblMeasurementName As label:
+            Font: =Font.'Segoe UI'
+            Height: =70
+            Size: =24
+            Text: =ctxSelectedMeasurement.name
+            Width: =263
+            X: =142
+            Y: =417
+            ZIndex: =4
+
+        icnCloseMeasurement As icon.Cancel:
+            Height: =70
+            Icon: =Icon.Cancel
+            OnSelect: |-
+                =UpdateContext({ctxShowEditDialog: false, ctxSelectedMeasurement: Blank()})
+            PaddingBottom: =15
+            PaddingLeft: =15
+            PaddingRight: =15
+            PaddingTop: =15
+            Width: =70
+            X: =497
+            Y: =392
+            ZIndex: =5
+
+        btnSaveMeasurement As button:
+            BorderThickness: =1
+            Fill: =varTheme.brandColor
+            Height: =70
+            HoverFill: =ColorFade(Self.Fill, -20%)
+            OnSelect: |-
+                =Patch(colMeasurements, {name: ctxSelectedMeasurement.name}, {value: Value(inpMeasurementValue.Text)});
+                Reset(inpMeasurementValue);
+                UpdateContext({ctxShowEditDialog: false});
+            RadiusBottomLeft: =20
+            RadiusBottomRight: =20
+            RadiusTopLeft: =20
+            RadiusTopRight: =20
+            Size: =20
+            Text: ="Save"
+            Width: =275
+            X: =181
+            Y: =612
+            ZIndex: =6
+

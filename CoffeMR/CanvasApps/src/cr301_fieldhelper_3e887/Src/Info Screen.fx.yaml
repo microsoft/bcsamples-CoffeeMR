@@ -1,0 +1,66 @@
+"'Info Screen' As screen":
+
+    conInfoContent As groupContainer:
+        Height: =Parent.Height * 0.5
+        Width: =Parent.Width *0.8
+        X: =Parent.Width/2 - Self.Width/2
+        Y: =Parent.Height * 0.2
+        ZIndex: =1
+
+        lblInfoText As label:
+            Font: =varTheme.font
+            Height: =Parent.Height - conInfoTitle.Height - conInfoTitle.Y
+            LineHeight: =1.4
+            Size: =19
+            Text: ="The Sample Power app connects to Business Central and enables coffee machine delivery companies to use augmented reality to measure the space where a coffee machine should be located. Users input the coffee machine dimensions and use their smartphone camera to scan the location. The app generates a 3D visualization and stores data securely in Business Central. The app streamlines the delivery process and improves user experience."
+            Width: =Parent.Width
+            X: =Parent.Width/2 - Self.Width/2
+            Y: =conInfoTitle.Y + conInfoTitle.Height
+            ZIndex: =1
+
+        conInfoTitle As groupContainer:
+            Height: =70
+            Width: =320
+            X: =lblInfoText.X
+            Y: =0   
+            ZIndex: =2
+
+            lblInfoHeader As label:
+                Font: =varTheme.font
+                FontWeight: =FontWeight.Semibold
+                Height: =70
+                Size: =21
+                Text: ="Business Central sample App"
+                Width: =250
+                X: =70
+                ZIndex: =1
+
+            icnInfoIcon As icon.Help:
+                Color: =varTheme.brandColor
+                Height: =60
+                Icon: =Icon.Help
+                Width: =60
+                Y: =5
+                ZIndex: =2
+
+    icnCloseInfoPage As icon.Cancel:
+        Color: =varTheme.brandColor
+        Height: =100
+        Icon: =Icon.Cancel
+        OnSelect: =Back(ScreenTransition.UnCoverRight)
+        PaddingBottom: =20
+        PaddingLeft: =20
+        PaddingRight: =20
+        PaddingTop: =20
+        Width: =100
+        X: |
+            =Parent.Width - Self.Width
+        ZIndex: =2
+
+    Icon2 As icon.ArrowRight:
+        Icon: =Icon.ArrowRight
+        OnSelect: =Navigate('Debug screen');
+        X: =576
+        Y: =1072
+        ZIndex: =3
+

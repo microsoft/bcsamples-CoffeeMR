@@ -1,0 +1,182 @@
+"'Coffee Machines List Screen' As screen":
+    Fill: =varTheme.brandColor
+    OnVisible: |
+        =UpdateContext({
+            ctxShowFilter: CountRows(colMeasurements) > 0,
+            ctxFilterHeight: LookUp(colMeasurements, name = "Height").value,
+            ctxFilterWidth: LookUp(colMeasurements, name = "Width").value,
+            ctxFilterDepth: LookUp(colMeasurements, name = "Depth").value
+        });
+
+    conCoffeeList As groupContainer.verticalAutoLayoutContainer:
+        Height: =Parent.Height
+        LayoutAlignItems: =LayoutAlignItems.Stretch
+        LayoutDirection: =LayoutDirection.Vertical
+        LayoutMode: =LayoutMode.Auto
+        Width: =Parent.Width
+        ZIndex: =1
+
+        conCoffeeListHeader As groupContainer.manualLayoutContainer:
+            AlignInContainer: =AlignInContainer.SetByContainer
+            Fill: =varTheme.brandColor
+            FillPortions: =0
+            Height: =If(ctxShowFilter, 140, 80)
+            LayoutMinHeight: =112
+            LayoutMinWidth: =250
+            X: =40
+            Y: =40
+            ZIndex: =1
+
+            conCoffeeFilter As groupContainer:
+                Height: =80
+                Visible: =ctxShowFilter
+                Width: =430
+                X: =105
+                Y: =Parent.Height - Self.Height
+                ZIndex: =1
+
+                btnFilter As button:
+                    Align: =Align.Left
+                    BorderColor: =Color.Wheat
+                    BorderThickness: =0
+                    Color: =RGBA(0, 0, 0, 1)
+                    DisabledColor: =RGBA(0, 0, 0, 1)
+                    Fill: =RGBA(255, 255, 255, 1)
+                    Font: =Font.'Segoe UI'
+                    Height: =50
+                    HoverColor: =RGBA(0, 0, 0, 1)
+                    HoverFill: =Color.White
+                    OnSelect: =Select(icnRemoveFilter)
+                    PaddingLeft: =20
+                    PaddingRight: =0
+                    PaddingTop: =0
+                    PressedFill: =Color.LightGray
+                    RadiusBottomLeft: =30
+                    RadiusBottomRight: =30
+                    RadiusTopLeft: =30
+                    RadiusTopRight: =30
+                    Size: =24
+                    Text: |-
+                        ="h: " & ctxFilterHeight & " w: " & ctxFilterWidth & " d: " & ctxFilterDepth
+                    Width: =350
+                    X: =Parent.Width/2 - Self.Width/2
+                    Y: =Parent.Height -Self.Height - 15
+                    ZIndex: =1
+
+                icnRemoveFilter As icon.CancelBadge:
+                    Color: =RGBA(0, 0, 0, 1)
+                    Height: =30
+                    Icon: =Icon.CancelBadge
+                    OnSelect: |-
+                        =UpdateContext({ctxShowFilter:false})
+                    Width: =30
+                    X: =345
+                    Y: =25
+                    ZIndex: =2
+
+            lblCoffeeListHeader As label:
+                Align: =Align.Center
+                Color: =RGBA(255, 255, 255, 1)
+                Font: =Font.'Segoe UI'
+                Height: =80
+                Size: =30
+                Text: ="Select a machine"
+                Width: =640
+                ZIndex: =2
+
+            icnCoffeeListHeaderBack As icon.ChevronLeft:
+                Color: =RGBA(255, 255, 255, 1)
+                Height: =80
+                Icon: =Icon.ChevronLeft
+                OnSelect: =Back(ScreenTransition.UnCoverRight)
+                PaddingBottom: =20
+                PaddingLeft: =20
+                PaddingRight: =20
+                PaddingTop: =20
+                Width: =80
+                ZIndex: =3
+
+        conCoffeeListContent As groupContainer.manualLayoutContainer:
+            AlignInContainer: =AlignInContainer.SetByContainer
+            Height: =225
+            LayoutMinHeight: =112
+            LayoutMinWidth: =250
+            ZIndex: =2
+
+            galCoffeeMachine As gallery.galleryVertical:
+                DelayItemLoading: =true
+                Height: =Parent.Height
+                Items: =Filter('coffeeItems (microsoft/powerApps/beta)', 'Item Category Code' = "finishedGoods")
+                Layout: =Layout.Vertical
+                LoadingSpinner: =LoadingSpinner.Data
+                OnSelect: |-
+                    =Set(varSelectedCoffeeMachine, ThisItem);
+                    Navigate('Coffee Machine screen', ScreenTransition.Cover);
+                ShowScrollbar: =false
+                TemplateSize: =450
+                Width: =Parent.Width
+                ZIndex: =1
+
+                conCoffeeMachine As groupContainer.manualLayoutContainer:
+                    BorderColor: =RGBA(237, 237, 237, 1)
+                    BorderThickness: =1
+                    Fill: =RGBA(255, 255, 255, 1)
+                    Height: =359
+                    RadiusBottomLeft: =10
+                    RadiusBottomRight: =10
+                    RadiusTopLeft: =10
+                    RadiusTopRight: =10
+                    X: =60
+                    Y: =60
+                    ZIndex: =4
+
+                    imgCoffeeMachine As image:
+                        BorderColor: =RGBA(237, 237, 237, 1)
+                        Height: =258
+                        Image: =ThisItem.Picture
+                        ImagePosition: =ImagePosition.Fill
+                        OnSelect: =
+                        RadiusBottomLeft: =5
+                        RadiusBottomRight: =5
+                        RadiusTopLeft: =5
+                        RadiusTopRight: =5
+                        Width: =305
+                        X: =Parent.Width/2 - Self.Width/2
+                        Y: =16
+                        ZIndex: =1
+
+                    lblDescription As label:
+                        Align: =Align.Center
+                        Font: =Font.'Segoe UI'
+                        FontWeight: =FontWeight.Semibold
+                        Height: =70
+                        OnSelect: =
+                        Size: =21
+                        Text: =ThisItem.DisplayName
+                        Width: =500
+                        Y: =274
+                        ZIndex: =2
+
+                    btnCoffeeOverLay As button:
+                        BorderThickness: =0
+                        Fill: =RGBA(0, 0, 0, 0)
+                        Height: =Parent.Height
+                        HoverBorderColor: =RGBA(0, 0, 0, 0)
+                        HoverFill: |
+                            =
+                        OnSelect: |-
+                            =Set(varSelectedCoffeeMachine, ThisItem);
+                            Navigate('Coffee Machine screen', ScreenTransition.Cover);
+                        PressedBorderColor: =Color.LightGray
+                        PressedFill: =Color.Transparent
+                        Size: =24
+                        Text: =""
+                        Width: =Parent.Width
+                        ZIndex: =3
+
+            comSelectItemsDividerCoffee As comBigDivider:
+                Fill: =Color.Transparent
+                Height: =16
+                Width: =Parent.Width
+                ZIndex: =2
+

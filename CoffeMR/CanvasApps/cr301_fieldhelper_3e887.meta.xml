@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>cr301_fieldhelper_3e887</Name>
+  <AppVersion>2023-11-01T11:46:36Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.23102.20.0</CreatedByClientVersion>
+  <MinClientVersion>3.23102.20.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","supportsPortrait":"true","supportsLandscape":"false","primaryFormFactor":"Phone","publisherVersion":"3.23102.20","minimumRequiredApiVersion":"2.2.0","hasComponent":"true","hasUnlockedComponent":"true","isUnifiedRootApp":"false","sienaVersion":"20231101T104029Z-3.23061.24.0","showStatusBar":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>rgba(10, 163, 168, 1)</BackgroundColor>
+  <DisplayName>Field Helper</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{"0ff5df45-9575-4f2b-8cac-8ae027644295":{"id":"/providers/microsoft.powerapps/apis/shared_dynamicssmbsaas","displayName":"Dynamics 365 Business Central","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1664/1.0.1664.3477/dynamicssmbsaas/icon.png","dataSources":["customers (v2.0)","salesOrders (v2.0)","salesOrderLines (v2.0)","coffeeItems (microsoft/powerApps/beta)"],"dependencies":[],"dependents":["ea874b1a-7601-47f4-8e74-74b9da7b451c"],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{"SandboxUK,7368d553-0c5c-ee11-8df4-6045bdc89477":{"dataSources":{"coffeeItems (microsoft/powerApps/beta)":{"tableName":"coffeeItems,microsoft%252FpowerApps%252Fbeta"}}}},"apiTier":"Premium","actions":["providers/PowerPlatform.Governance/Operations/Read","providers/PowerPlatform.Governance/Operations/Write"]},"ea874b1a-7601-47f4-8e74-74b9da7b451c":{"id":"/providers/microsoft.powerapps/apis/shared_logicflows","displayName":"Logic flows","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1664/1.0.1664.3477/logicflows/icon.png","dataSources":["UploadImageToSalesOrder"],"dependencies":["0ff5df45-9575-4f2b-8cac-8ae027644295"],"dependents":[],"parameterHints":{"workflowName":{"value":"e651734a-a607-4b4b-a489-180c9af66ed9"},"workflowEntityId":{"value":"aba81736-12d9-ed11-a7c7-000d3a991110"},"0ff5df45-9575-4f2b-8cac-8ae027644295":{"value":"shared_dynamicssmbsaas_1"}},"parameterHintsV2":{"workflowName":{"value":"e651734a-a607-4b4b-a489-180c9af66ed9"},"workflowEntityId":{"value":"aba81736-12d9-ed11-a7c7-000d3a991110"},"shared_dynamicssmbsaas_1":{"value":"0ff5df45-9575-4f2b-8cac-8ae027644295"}},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard","actions":["Run"]}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <AppComponents>[]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[{"dependencyid":"aba81736-12d9-ed11-a7c7-000d3a991110","componenttype":29,"componenttypeplatformname":"Workflow"}]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/cr301_fieldhelper_3e887_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/cr301_fieldhelper_3e887_DocumentUri.msapp</DocumentUri>
+</CanvasApp>

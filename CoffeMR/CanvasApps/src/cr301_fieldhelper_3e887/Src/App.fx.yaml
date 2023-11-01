@@ -1,0 +1,22 @@
+App As appinfo:
+    BackEnabled: =false
+    OnStart: |-
+        =// Set theming constants
+        Set(varTheme, {
+            font: Font.'Segoe UI',
+            primaryColor: ColorValue("#139FA9"),    
+            brandColor: ColorValue("#139FA9"),
+            secondaryColor: Color.White
+        });
+        Set(varCurrencyFormat, "$#,##0.00");
+        Set(varBcLocale, "en-us");
+    StartScreen: ='Start Screen'
+    Theme: =PowerAppsTheme
+
+    Host As hostControl.DefaultHostControlVariant:
+        OnCancel: =false
+        OnEdit: =false
+        OnNew: =false
+        OnSave: =false
+        OnView: =false
+

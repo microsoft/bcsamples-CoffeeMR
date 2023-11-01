@@ -1,0 +1,36 @@
+"'Success Screen' As screen":
+    Fill: =varTheme.brandColor
+
+    conSuccessContent As groupContainer.verticalAutoLayoutContainer:
+        Height: =Parent.Height
+        LayoutAlignItems: =LayoutAlignItems.Center
+        LayoutDirection: =LayoutDirection.Vertical
+        LayoutJustifyContent: =LayoutJustifyContent.Center
+        LayoutMode: =LayoutMode.Auto
+        Width: =Parent.Width
+        ZIndex: =1
+
+        icnSuccess As icon.Check:
+            Color: =Color.White
+            Height: =Self.Width
+            Icon: =Icon.Check
+            Width: =Parent.Width * 0.3
+            Y: =40
+            ZIndex: =1
+
+    Timer1 As timer:
+        AutoStart: =true
+        Duration: =1000
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =1136
+        HoverFill: =Color.Transparent
+        OnSelect: =Navigate('Start Screen', ScreenTransition.UnCoverRight);
+        OnTimerEnd: =Navigate('Start Screen', ScreenTransition.UnCoverRight);
+        PaddingBottom: =0
+        PaddingLeft: =0
+        PaddingRight: =0
+        PaddingTop: =0
+        Text: =    
+        Width: =640
+        ZIndex: =2
+
