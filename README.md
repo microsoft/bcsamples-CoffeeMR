@@ -1,4 +1,4 @@
-# Business Central samples - Coffee MR
+# [Preview] Business Central samples - Coffee MR
 
 The **Coffee MR** sample showcases an application of mixed reality (MR) within Power Apps, using Business Central data.
 
