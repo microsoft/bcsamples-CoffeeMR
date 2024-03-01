@@ -7,24 +7,33 @@
     "connectionRef": {
       "apiTier": "Premium",
       "displayName": "Dynamics 365 Business Central",
-      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1664/1.0.1664.3477/dynamicssmbsaas/icon.png",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1678/1.0.1678.3636/dynamicssmbsaas/icon.png",
       "id": "/providers/microsoft.powerapps/apis/shared_dynamicssmbsaas",
       "parameterHints": {},
       "parameterHintsV2": {}
     },
     "datasets": {
-      "SandboxUK,7368d553-0c5c-ee11-8df4-6045bdc89477": {
+      "SANDBOX,5736fe89-41bc-ee11-907d-6045bdc8c244": {
         "dataSources": {
           "coffeeItems (microsoft/powerApps/beta)": {
             "tableName": "coffeeItems,microsoft%252FpowerApps%252Fbeta"
+          },
+          "customers (v2.0)": {
+            "tableName": "customers,v2.0"
+          },
+          "salesOrderLines (v2.0)": {
+            "tableName": "salesOrderLines,v2.0"
+          },
+          "salesOrders (v2.0)": {
+            "tableName": "salesOrders,v2.0"
           }
         }
       }
     },
     "dataSources": [
-      "customers (v2.0)",
-      "salesOrders (v2.0)",
       "salesOrderLines (v2.0)",
+      "salesOrders (v2.0)",
+      "customers (v2.0)",
       "coffeeItems (microsoft/powerApps/beta)"
     ],
     "dependencies": {},
@@ -50,7 +59,7 @@
           "value": "aba81736-12d9-ed11-a7c7-000d3a991110"
         },
         "workflowName": {
-          "value": "d21fa244-dda4-48ab-852e-5eaa5f682dee"
+          "value": "e6d4b0e2-4e50-44bc-a567-be8d48eac5ed"
         }
       },
       "parameterHintsV2": {
@@ -61,7 +70,7 @@
           "value": "aba81736-12d9-ed11-a7c7-000d3a991110"
         },
         "workflowName": {
-          "value": "d21fa244-dda4-48ab-852e-5eaa5f682dee"
+          "value": "e6d4b0e2-4e50-44bc-a567-be8d48eac5ed"
         }
       }
     },

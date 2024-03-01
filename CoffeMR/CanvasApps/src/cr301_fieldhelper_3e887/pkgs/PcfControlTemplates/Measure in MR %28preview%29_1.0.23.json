@@ -9,6 +9,7 @@
         "PropertyKind": 2,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 29,
         "WizardStep": null
       },
@@ -20,6 +21,7 @@
         "PropertyKind": 1,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -31,6 +33,7 @@
         "PropertyKind": 2,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 30,
         "WizardStep": null
       },
@@ -42,6 +45,7 @@
         "PropertyKind": 2,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -53,6 +57,7 @@
         "PropertyKind": 1,
         "SectionIndex": 1,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -64,6 +69,7 @@
         "PropertyKind": 1,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -75,6 +81,7 @@
         "PropertyKind": 2,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 29,
         "WizardStep": null
       },
@@ -86,6 +93,7 @@
         "PropertyKind": 2,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 31,
         "WizardStep": null
       },
@@ -97,6 +105,7 @@
         "PropertyKind": 2,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 32,
         "WizardStep": null
       },
@@ -108,6 +117,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -119,6 +129,7 @@
         "PropertyKind": 1,
         "SectionIndex": 1,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -130,6 +141,7 @@
         "PropertyKind": 2,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 32,
         "WizardStep": null
       },
@@ -141,6 +153,7 @@
         "PropertyKind": 1,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 33,
         "WizardStep": null
       },
@@ -152,6 +165,7 @@
         "PropertyKind": 1,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -163,6 +177,7 @@
         "PropertyKind": 1,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 34,
         "WizardStep": null
       },
@@ -174,6 +189,7 @@
         "PropertyKind": 2,
         "SectionIndex": 3,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -185,6 +201,7 @@
         "PropertyKind": 2,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 29,
         "WizardStep": null
       },
@@ -196,6 +213,7 @@
         "PropertyKind": 2,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 31,
         "WizardStep": null
       },
@@ -207,6 +225,7 @@
         "PropertyKind": 2,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 32,
         "WizardStep": null
       },
@@ -218,6 +237,7 @@
         "PropertyKind": 2,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 35,
         "WizardStep": null
       },
@@ -229,6 +249,7 @@
         "PropertyKind": 1,
         "SectionIndex": 2,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -240,6 +261,7 @@
         "PropertyKind": 1,
         "SectionIndex": 1,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -251,6 +273,7 @@
         "PropertyKind": 1,
         "SectionIndex": 4,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -262,6 +285,7 @@
         "PropertyKind": 1,
         "SectionIndex": 4,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -273,6 +297,7 @@
         "PropertyKind": 1,
         "SectionIndex": 4,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -284,6 +309,7 @@
         "PropertyKind": 1,
         "SectionIndex": 4,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -295,6 +321,7 @@
         "PropertyKind": 2,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 29,
         "WizardStep": null
       },
@@ -306,6 +333,7 @@
         "PropertyKind": 2,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 31,
         "WizardStep": null
       },
@@ -317,6 +345,7 @@
         "PropertyKind": 2,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 32,
         "WizardStep": null
       },
@@ -328,6 +357,7 @@
         "PropertyKind": 2,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 37,
         "WizardStep": null
       },
@@ -339,6 +369,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -350,6 +381,7 @@
         "PropertyKind": 1,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 40,
         "WizardStep": null
       },
@@ -361,6 +393,7 @@
         "PropertyKind": 2,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 31,
         "WizardStep": null
       },
@@ -372,6 +405,7 @@
         "PropertyKind": 2,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 36,
         "WizardStep": null
       },
@@ -383,6 +417,7 @@
         "PropertyKind": 1,
         "SectionIndex": 1,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -394,6 +429,7 @@
         "PropertyKind": 1,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 42,
         "WizardStep": null
       },
@@ -405,6 +441,7 @@
         "PropertyKind": 1,
         "SectionIndex": 3,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -416,6 +453,7 @@
         "PropertyKind": 2,
         "SectionIndex": 3,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -427,6 +465,7 @@
         "PropertyKind": 2,
         "SectionIndex": 3,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -438,6 +477,7 @@
         "PropertyKind": 2,
         "SectionIndex": 3,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       }
@@ -451,6 +491,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -462,6 +503,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -473,6 +515,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -484,6 +527,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -495,6 +539,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -506,6 +551,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -517,6 +563,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -528,6 +575,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -539,6 +587,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -550,6 +599,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -561,6 +611,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -572,6 +623,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -583,6 +635,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -594,6 +647,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -605,6 +659,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -616,6 +671,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -627,6 +683,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -638,6 +695,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -649,6 +707,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -660,6 +719,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -671,6 +731,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -682,6 +743,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -693,6 +755,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -704,6 +767,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -715,6 +779,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -726,6 +791,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -737,6 +803,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -748,6 +815,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -759,6 +827,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -770,6 +839,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -781,6 +851,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -792,6 +863,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -803,6 +875,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       }
@@ -814,14 +887,16 @@
       "DisplayName": "OnChange",
       "Hidden": false,
       "IsPrimaryInput": false,
-      "Name": "OnChange"
+      "Name": "OnChange",
+      "PfxDefaultValue": null
     },
     {
       "Description": "",
       "DisplayName": "OnSelect",
       "Hidden": false,
       "IsPrimaryInput": false,
-      "Name": "OnSelect"
+      "Name": "OnSelect",
+      "PfxDefaultValue": null
     }
   ],
   "ControlConstructor": "MeasureInMR",
@@ -833,7 +908,8 @@
       "DisplayName": "On Mixed Reality Select",
       "Hidden": false,
       "IsPrimaryInput": false,
-      "Name": "OnMixedRealitySelect"
+      "Name": "OnMixedRealitySelect",
+      "PfxDefaultValue": null
     }
   ],
   "IncludedProperties": [
@@ -2402,6 +2478,13 @@
     },
     {
       "IsControlSpecific": false,
+      "LoadingOrder": 5,
+      "ModifiedPath": "",
+      "Path": "/ctrllib/common/js/container.js",
+      "Type": 0
+    },
+    {
+      "IsControlSpecific": false,
       "LoadingOrder": 6,
       "ModifiedPath": "",
       "Path": "/ctrllib/PCFControls/js/PCFControlWrapper.js",
@@ -2416,371 +2499,371 @@
     },
     {
       "IsControlSpecific": false,
-      "LoadingOrder": 7,
+      "LoadingOrder": 8,
       "ModifiedPath": "",
-      "Path": "{\"Id\":\"ManifestTemplate\",\"Data\":{\"ConstructorName\":\"Microsoft.MeasureInMR\",\"CustomControlId\":\"Microsoft.MeasureInMR\",\"IsVirtual\":false,\"Properties\":{\"Resources\":[{\"Name\":\"/PCF/prop-types.js\",\"LoadOrder\":1,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/PCF/react-fela.js\",\"LoadOrder\":2,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/PCF/fela.js\",\"LoadOrder\":3,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/PCF/fela-dom.js\",\"LoadOrder\":4,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/ctrllib/PCFControls/js/PCFControlWrapper.js\",\"LoadOrder\":6,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/ctrllib/PcfControlProxy/js/PcfControlProxy.js\",\"LoadOrder\":7,\"Type\":0,\"LibraryName\":null}],\"GroupDefinitions\":null,\"DataSetDefinitions\":{\"Items\":{\"DisplayName\":\"Expected measurements (preview)\",\"Type\":\"Grid\",\"Columns\":{\"0\":{\"Required\":true,\"Usage\":2,\"Name\":\"ItemsLabels\",\"Type\":\"SingleLine_Text\"},\"1\":{\"Required\":false,\"Usage\":2,\"Name\":\"ItemsMeasurementType\",\"Type\":\"Enum\"},\"2\":{\"Required\":false,\"Usage\":2,\"Name\":\"ItemsBoxDraw\",\"Type\":\"TwoOptions\"}},\"Primary\":true,\"InitialDataSetFetch\":true,\"CDSDataSetOptions\":null}},\"Properties\":{\"Text\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"Measure in MR\"},\"Units\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"Meters\"},\"BoxDraw\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"EnableShadows\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"MeasurementType\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"Freeform\"},\"Measurements\":{\"Required\":true,\"Usage\":2,\"DefaultValue\":\"\"},\"Photos\":{\"Required\":true,\"Usage\":2,\"DefaultValue\":\"\"},\"DisplayType\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"IconText\"},\"PaddingTop\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"5\"},\"PaddingBottom\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"5\"},\"PaddingLeft\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"5\"},\"PaddingRight\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"5\"},\"FillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#3860B2\"},\"TextColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#FFFFFF\"},\"BorderStyle\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"solid\"},\"BorderThickness\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"2\"},\"BorderFillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#2f5197\"},\"BorderRadius\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"10\"},\"Font\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"'Open Sans', sans-serif\"},\"FontSize\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"20\"},\"FontWeight\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"600\"},\"Italic\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"Underline\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"Strikethrough\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"TextAlignment\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"center\"},\"VerticalAlign\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"middle\"},\"Disabled\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"DisabledContentColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#A6A6A6\"},\"DisabledFillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#F4F4F4\"},\"DisabledBorderColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#A6A6A6\"},\"PressedContentColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#3860b2\"},\"PressedFillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#FFFFFF\"},\"PressedBorderColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#3860b2\"},\"HoverContentColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#FFFFFF\"},\"HoverFillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#2f5197\"},\"HoverBorderColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#5873ab\"},\"Items\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"\"},\"Selected\":{\"Required\":true,\"Usage\":2,\"DefaultValue\":\"\"},\"SelectedItems\":{\"Required\":true,\"Usage\":2,\"DefaultValue\":\"\"},\"ItemsLabels\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"\"},\"ItemsMeasurementType\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"\"},\"ItemsBoxDraw\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"\"}},\"FeatureUsage\":[{\"IsRequired\":true,\"Name\":\"Device.openARViewer\"}]},\"Events\":{\"OnMixedRealitySelect\":{\"EventName\":\"OnMixedRealitySelect\"}},\"CommonEvents\":null,\"DesignMap\":null,\"PropertyDependencies\":[{\"Input\":\"Text\",\"Output\":\"Measurements\",\"RequiredFor\":\"schema\"},{\"Input\":\"Text\",\"Output\":\"Photos\",\"RequiredFor\":\"schema\"},{\"Input\":\"Items\",\"Output\":\"Selected\",\"RequiredFor\":\"\"},{\"Input\":\"Items\",\"Output\":\"SelectedItems\",\"RequiredFor\":\"\"}],\"Children\":null}}",
+      "Path": "{\"Id\":\"ManifestTemplate\",\"Data\":{\"ConstructorName\":\"Microsoft.MeasureInMR\",\"CustomControlId\":\"Microsoft.MeasureInMR\",\"IsVirtual\":false,\"Properties\":{\"Resources\":[{\"Name\":\"/PCF/prop-types.js\",\"LoadOrder\":1,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/PCF/react-fela.js\",\"LoadOrder\":2,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/PCF/fela.js\",\"LoadOrder\":3,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/PCF/fela-dom.js\",\"LoadOrder\":4,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/ctrllib/common/js/container.js\",\"LoadOrder\":5,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/ctrllib/PCFControls/js/PCFControlWrapper.js\",\"LoadOrder\":6,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/ctrllib/PcfControlProxy/js/PcfControlProxy.js\",\"LoadOrder\":7,\"Type\":0,\"LibraryName\":null}],\"GroupDefinitions\":null,\"DataSetDefinitions\":{\"Items\":{\"DisplayName\":\"Expected measurements (preview)\",\"Type\":\"Grid\",\"Columns\":{\"0\":{\"Required\":true,\"Usage\":2,\"Name\":\"ItemsLabels\",\"Type\":\"SingleLine_Text\"},\"1\":{\"Required\":false,\"Usage\":2,\"Name\":\"ItemsMeasurementType\",\"Type\":\"Enum\"},\"2\":{\"Required\":false,\"Usage\":2,\"Name\":\"ItemsBoxDraw\",\"Type\":\"TwoOptions\"}},\"Primary\":true,\"InitialDataSetFetch\":true,\"CDSDataSetOptions\":null}},\"Properties\":{\"Text\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"Measure in MR\"},\"Units\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"Meters\"},\"BoxDraw\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"EnableShadows\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"MeasurementType\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"Freeform\"},\"Measurements\":{\"Required\":true,\"Usage\":2,\"DefaultValue\":\"\"},\"Photos\":{\"Required\":true,\"Usage\":2,\"DefaultValue\":\"\"},\"DisplayType\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"IconText\"},\"PaddingTop\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"5\"},\"PaddingBottom\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"5\"},\"PaddingLeft\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"5\"},\"PaddingRight\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"5\"},\"FillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#3860B2\"},\"TextColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#FFFFFF\"},\"BorderStyle\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"solid\"},\"BorderThickness\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"2\"},\"BorderFillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#2f5197\"},\"BorderRadius\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"10\"},\"Font\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"'Open Sans', sans-serif\"},\"FontSize\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"20\"},\"FontWeight\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"600\"},\"Italic\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"Underline\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"Strikethrough\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"TextAlignment\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"center\"},\"VerticalAlign\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"middle\"},\"Disabled\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"DisabledContentColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#A6A6A6\"},\"DisabledFillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#F4F4F4\"},\"DisabledBorderColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#A6A6A6\"},\"PressedContentColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#3860b2\"},\"PressedFillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#FFFFFF\"},\"PressedBorderColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#3860b2\"},\"HoverContentColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#FFFFFF\"},\"HoverFillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#2f5197\"},\"HoverBorderColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#5873ab\"},\"Items\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"\"},\"Selected\":{\"Required\":true,\"Usage\":2,\"DefaultValue\":\"\"},\"SelectedItems\":{\"Required\":true,\"Usage\":2,\"DefaultValue\":\"\"},\"ItemsLabels\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"\"},\"ItemsMeasurementType\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"\"},\"ItemsBoxDraw\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"\"}},\"FeatureUsage\":[{\"IsRequired\":true,\"Name\":\"Device.openARViewer\"}]},\"Events\":{\"OnMixedRealitySelect\":{\"EventName\":\"OnMixedRealitySelect\"}},\"CommonEvents\":null,\"DesignMap\":null,\"PropertyDependencies\":[{\"Input\":\"Text\",\"Output\":\"Measurements\",\"RequiredFor\":\"schema\"},{\"Input\":\"Text\",\"Output\":\"Photos\",\"RequiredFor\":\"schema\"},{\"Input\":\"Items\",\"Output\":\"Selected\",\"RequiredFor\":\"\"},{\"Input\":\"Items\",\"Output\":\"SelectedItems\",\"RequiredFor\":\"\"}],\"Children\":null}}",
       "Type": 3
     },
     {
       "IsControlSpecific": false,
-      "LoadingOrder": 8,
+      "LoadingOrder": 9,
       "ModifiedPath": "",
       "Path": "{\"Id\":\"ManifestPropertyTypes\",\"Data\":{\"Properties\":[{\"Name\":\"Text\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Units\",\"Type\":\"Enum\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"BoxDraw\",\"Type\":\"TwoOptions\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"EnableShadows\",\"Type\":\"TwoOptions\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"MeasurementType\",\"Type\":\"Enum\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Measurements\",\"Type\":\"Object\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Photos\",\"Type\":\"Object\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"DisplayType\",\"Type\":\"Enum\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"PaddingTop\",\"Type\":\"Whole_None\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"PaddingBottom\",\"Type\":\"Whole_None\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"PaddingLeft\",\"Type\":\"Whole_None\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"PaddingRight\",\"Type\":\"Whole_None\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"FillColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"FillColor\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"TextColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"FontColor\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"BorderStyle\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"BorderStyle\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"BorderThickness\",\"Type\":\"Whole_None\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"BorderFillColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"Color\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"BorderRadius\",\"Type\":\"Whole_None\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Font\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"Font\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"FontSize\",\"Type\":\"Whole_None\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"FontWeight\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"FontWeight\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Italic\",\"Type\":\"TwoOptions\",\"ComplexType\":\"Italics\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Underline\",\"Type\":\"TwoOptions\",\"ComplexType\":\"Underline\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Strikethrough\",\"Type\":\"TwoOptions\",\"ComplexType\":\"Strikethrough\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"TextAlignment\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"Align\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"VerticalAlign\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"VerticalAlign\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Disabled\",\"Type\":\"TwoOptions\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"DisabledContentColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"FontColor\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"DisabledFillColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"FillColor\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"DisabledBorderColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"Color\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"PressedContentColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"FontColor\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"PressedFillColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"FillColor\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"PressedBorderColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"Color\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"HoverContentColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"FontColor\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"HoverFillColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"FillColor\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"HoverBorderColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"Color\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Items\",\"Type\":\"DataSet\",\"ComplexType\":\"None\",\"IsPrimary\":true,\"IsIncluded\":false},{\"Name\":\"Selected\",\"Type\":\"Object\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"SelectedItems\",\"Type\":\"DataSet\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"ItemsLabels\",\"Type\":\"String\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"ItemsMeasurementType\",\"Type\":\"String\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"ItemsBoxDraw\",\"Type\":\"String\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"PCFTeamsTheme\",\"Type\":\"String\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":true},{\"Name\":\"X\",\"Type\":\"Number\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":true},{\"Name\":\"Y\",\"Type\":\"Number\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":true},{\"Name\":\"Width\",\"Type\":\"Number\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":true},{\"Name\":\"Height\",\"Type\":\"Number\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":true},{\"Name\":\"Visible\",\"Type\":\"Boolean\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":true},{\"Name\":\"DisplayMode\",\"Type\":\"DisplayMode\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":true},{\"Name\":\"TabIndex\",\"Type\":\"Number\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":true},{\"Name\":\"Tooltip\",\"Type\":\"String\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":true}]}}",
       "Type": 3
     },
     {
       "IsControlSpecific": false,
-      "LoadingOrder": 9,
+      "LoadingOrder": 10,
       "ModifiedPath": "",
       "Path": "{\"Id\":\"PowerAppsControlInfo\",\"Data\":{\"TemplateVersion\":1,\"Version\":\"1.0.23\",\"IsFirstParty\":true}}",
       "Type": 3
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 11,
+      "LoadingOrder": 12,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/bundle.js",
       "Type": 0
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 10,
+      "LoadingOrder": 11,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/libs/babylon.js",
       "Type": 0
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 9,
+      "LoadingOrder": 10,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1033.resx",
       "Type": 2
     },
     {
       "IsControlSpecific": false,
-      "LoadingOrder": 13,
+      "LoadingOrder": 14,
       "ModifiedPath": "",
       "Path": "{\"Id\":\"FormattingData\",\"Data\":{\"timeZoneUtcOffsetMinutes\":0,\"dateTimeFormatInfo\":{\"AMDesignator\":\"AM\",\"Calendar\":{\"MinSupportedDateTime\":\"0001-01-01T00:00:00\",\"MaxSupportedDateTime\":\"9999-12-31T23:59:59.9999999\",\"AlgorithmType\":1,\"CalendarType\":1,\"Eras\":[1],\"TwoDigitYearMax\":2049,\"IsReadOnly\":false},\"DateSeparator\":\"/\",\"FirstDayOfWeek\":0,\"CalendarWeekRule\":0,\"FullDateTimePattern\":\"dddd, MMMM d, yyyy h:mm:ss tt\",\"LongDatePattern\":\"dddd, MMMM d, yyyy\",\"LongTimePattern\":\"h:mm:ss tt\",\"MonthDayPattern\":\"MMMM d\",\"PMDesignator\":\"PM\",\"RFC1123Pattern\":\"ddd, dd MMM yyyy HH':'mm':'ss 'GMT'\",\"ShortDatePattern\":\"M/d/yyyy\",\"ShortTimePattern\":\"h:mm tt\",\"SortableDateTimePattern\":\"yyyy'-'MM'-'dd'T'HH':'mm':'ss\",\"TimeSeparator\":\":\",\"UniversalSortableDateTimePattern\":\"yyyy'-'MM'-'dd HH':'mm':'ss'Z'\",\"YearMonthPattern\":\"MMMM yyyy\",\"AbbreviatedDayNames\":[\"Sun\",\"Mon\",\"Tue\",\"Wed\",\"Thu\",\"Fri\",\"Sat\"],\"ShortestDayNames\":[\"Su\",\"Mo\",\"Tu\",\"We\",\"Th\",\"Fr\",\"Sa\"],\"DayNames\":[\"Sunday\",\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\"],\"AbbreviatedMonthNames\":[\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\",\"Jul\",\"Aug\",\"Sep\",\"Oct\",\"Nov\",\"Dec\",\"\"],\"MonthNames\":[\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\",\"\"],\"IsReadOnly\":false,\"NativeCalendarName\":\"Gregorian Calendar\",\"AbbreviatedMonthGenitiveNames\":[\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\",\"Jul\",\"Aug\",\"Sep\",\"Oct\",\"Nov\",\"Dec\",\"\"],\"MonthGenitiveNames\":[\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\",\"\"]},\"numberFormatInfo\":{\"CurrencyDecimalDigits\":2,\"CurrencyDecimalSeparator\":\".\",\"IsReadOnly\":false,\"CurrencyGroupSizes\":[3],\"NumberGroupSizes\":[3],\"PercentGroupSizes\":[3],\"CurrencyGroupSeparator\":\",\",\"CurrencySymbol\":\"$\",\"NaNSymbol\":\"NaN\",\"CurrencyNegativePattern\":0,\"NumberNegativePattern\":1,\"PercentPositivePattern\":1,\"PercentNegativePattern\":1,\"NegativeInfinitySymbol\":\"-∞\",\"NegativeSign\":\"-\",\"NumberDecimalDigits\":2,\"NumberDecimalSeparator\":\".\",\"NumberGroupSeparator\":\",\",\"CurrencyPositivePattern\":0,\"PositiveInfinitySymbol\":\"∞\",\"PositiveSign\":\"+\",\"PercentDecimalDigits\":2,\"PercentDecimalSeparator\":\".\",\"PercentGroupSeparator\":\",\",\"PercentSymbol\":\"%\",\"PerMilleSymbol\":\"‰\",\"NativeDigits\":[\"0\",\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\"],\"DigitSubstitution\":1},\"timeZoneAdjusters\":[],\"formatInfoCultureName\":\"en-US\",\"formatter\":null,\"languagesByCode\":{\"1033\":\"English (United States)\",\"-1\":\"All Languages\"}}}",
       "Type": 3
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1025.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1026.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1027.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1028.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1029.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1030.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1031.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1032.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1033.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1035.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1036.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1037.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1038.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1040.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1041.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1042.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1043.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1044.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1045.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1046.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1048.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1049.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1050.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1051.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1053.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1054.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1055.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1057.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1058.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1060.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1061.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1062.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1063.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1066.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1069.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1081.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1086.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1087.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.1110.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.2052.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.2070.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.2074.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.3076.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.3082.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "/PCFControls/MeasureInMR/strings/MeasureButton.3098.json",
       "Type": 5
     },
     {
       "IsControlSpecific": false,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "{\"Id\":\"LocalizedStrings\",\"Data\":{\"LocStrings\":{\"PCF_MeasureButton\":\"Measure in MR (preview)\",\"PCF_MeasureButton_description\":\"Measure the real world using your device\",\"PCF_MeasureButton_Measurements\":\"Measurements\",\"PCF_MeasureButton_DetailedMeasurements_Description\":\"Details for each measurement taken.\",\"PCF_images_name\":\"Photos\",\"PCF_images_description\":\"Photos from the last mixed reality session\",\"PCF_Units\":\"Unit of measurement\",\"PCF_MeasureButton_Units_Description\":\"Base units to use for measurement: meters, centimeters, feet, inches\",\"Units_Meters\":\"Meters\",\"Units_Meters_Description\":\"Equal to 100 centimeters\",\"Units_Centimeters\":\"Centimeters\",\"Units_Centimeters_Description\":\"Equal to 1/100 of a meter\",\"Units_Feet\":\"Feet\",\"Units_Feet_Description\":\"Equal to 12 inches\",\"Units_Inches\":\"Inches\",\"Units_Inches_Description\":\"Equal to 1/12 of a foot\",\"PCF_MeasurementType\":\"Measurement type\",\"PCF_MeasurementType_Description\":\"Type of measurement to perform: distance, area, volume, freeform\",\"Measure_Volume\":\"Volume\",\"Measure_Volume_Description\":\"Allow measurement of volumes\",\"Measure_Area\":\"Area\",\"Measure_Area_Description\":\"Allow measurement of 2D areas\",\"Measure_AreaAndVolume\":\"Freeform\",\"Measure_AreaAndVolume_Description\":\"Allow measurements of any type: distance, area, and volume\",\"Measure_Box\":\"Box draw\",\"Measure_Box_Description\":\"Lock captured measurements to rectangular shapes by specifying only a width and a depth\",\"Measure_Distance\":\"Distance\",\"Measure_Distance_Description\":\"Allow measurement of distances\",\"PCF_ErrorHelper_ArErrorMessage\":\"To measure in your space, open this app in the Power Apps mobile app on a Mixed Reality capable device. \",\"PCF_ErrorHelper_ArErrorMessageLearnMore\":\"Click here to view device requirements and learn more.\",\"PCF_ErrorHelper_GenericArError\":\"Error encountered while attempting to measure in mixed reality\",\"PCF_ErrorHelper_ArAppUpdateRequired\":\"The version of Power Apps installed on your device does not support this functionality.  Please install the latest version from the store and try again.\",\"PCF_ErrorHelper_ArControlUpdateRequired\":\"This MR functionality is no longer supported.  Ask the creator of this PowerApp to update it to use the latest MR controls.\",\"Button_Base_DefaultText\":\"Measure in mixed reality\",\"Button_Base_Text\":\"Text\",\"Button_Base_Text_description\":\"Button text\",\"Button_Base_DisplayType\":\"Display type\",\"Button_Base_DisplayType_description\":\"Button display type: Icon, Text, IconText\",\"DisplayType_Icon_Text\":\"Icon + text\",\"Display_Type_Icon_Text_Description\":\"Display both an icon and text\",\"Display_Type_Text\":\"Text\",\"Display_Type_Text_Description\":\"Display text only\",\"Display_Type_Icon\":\"Icon\",\"Display_Type_Icon_Description\":\"Display icon only\",\"Button_Base_PaddingTop\":\"Padding top\",\"Button_Base_PaddingTop_description\":\"Button padding top\",\"Button_Base_PaddingBottom\":\"Padding bottom\",\"Button_Base_PaddingBottom_description\":\"Button padding bottom\",\"Button_Base_PaddingLeft\":\"Padding left\",\"Button_Base_PaddingLeft_description\":\"Button padding left\",\"Button_Base_PaddingRight\":\"Padding right\",\"Button_Base_PaddingRight_description\":\"Button padding right\",\"Button_Base_FillColor\":\"Fill color\",\"Button_Base_FillColor_description\":\"Button fill color\",\"Button_Base_TextColor\":\"Text color\",\"Button_Base_TextColor_description\":\"Button text color\",\"Button_Base_BorderStyle\":\"Border style\",\"Button_Base_BorderStyle_description\":\"Button border style: solid, dashed, dotted, none\",\"Button_Base_BorderThickness\":\"Border thickness\",\"Button_Base_BorderThickness_description\":\"Button border thickness (width)\",\"Button_Base_BorderFillColor\":\"Border fill color\",\"Button_Base_BorderFillColor_description\":\"Border fill color of the button\",\"Button_Base_BorderRadius\":\"Border radius\",\"Button_Base_BorderRadius_description\":\"Border radius of the button: 0 creates a rectangular button, 100 creates a circular button\",\"Button_Base_Font\":\"Font\",\"Button_Base_Font_description\":\"Font of the text on the button\",\"Button_Base_FontSize\":\"Font size\",\"Button_Base_FontSize_description\":\"Font size of the text on the button\",\"Button_Base_FontWeight\":\"Font weight\",\"Button_Base_FontWeight_description\":\"Font weight of the text on the button\",\"Button_Base_FontStyle\":\"Font style\",\"Button_Base_FontStyle_description\":\"Font style of the text on the button\",\"Button_Base_TextAlignment\":\"Text alignment\",\"Button_Base_TextAlignment_description\":\"Text alignment of the text on the button\",\"Button_Base_VerticalAlign\":\"Vertical alignment\",\"Button_Base_VerticalAlign_description\":\"Vertical alignment of the text on the button\",\"Button_Base_Disabled\":\"Disabled\",\"Button_Base_Disabled_description\":\"Sets the button as disabled\",\"Button_Base_DisabledColor\":\"Disabled color\",\"Button_Base_DisabledColor_description\":\"Sets the disabled button content color\",\"Button_Base_DisabledFillColor\":\"Disabled fill color\",\"Button_Base_DisabledFillColor_description\":\"Sets the disabled button fill color\",\"Button_Base_DisabledBorderColor\":\"Disabled border color\",\"Button_Base_DisabledBorderColor_description\":\"Sets the disabled button border color\",\"Button_Base_PressedColor\":\"Pressed color\",\"Button_Base_PressedColor_description\":\"Sets the pressed button content color\",\"Button_Base_PressedFillColor\":\"Pressed fill color\",\"Button_Base_PressedFillColor_description\":\"Sets the pressed button fill color\",\"Button_Base_PressedBorderColor\":\"Pressed border color\",\"Button_Base_PressedBorderColor_description\":\"Sets the pressed button border color\",\"Button_Base_HoverColor\":\"Hover color\",\"Button_Base_HoverColor_description\":\"Sets the hover button content color\",\"Button_Base_HoverFillColor\":\"Hover fill color\",\"Button_Base_HoverFillColor_description\":\"Sets the hover button fill color\",\"Button_Base_HoverBorderColor\":\"Hover border color\",\"Button_Base_HoverBorderColor_description\":\"Sets the hover button border color\",\"Button_Base\":\"Measure in MR (preview)\",\"Button_Base_description\":\"Measure the real world using your device\",\"Button_Base_Loading\":\"Loading...\",\"Italic_Display_Key\":\"Italic\",\"Italic_Desc_Key\":\"Italic\",\"Underline_Display_Key\":\"Underline\",\"Underline_Desc_Key\":\"Underline\",\"Strikethrough_Display_Key\":\"Strikethrough\",\"Strikethrough_Desc_Key\":\"Strikethrough\",\"MeasureButton_OnMixedRealitySelect\":\"On Mixed Reality Select\",\"MeasureButton_OnMixedRealitySelect_description\":\"Event to be triggered after the user returns from the Measure in MR screen\",\"Expected_Measurements_Display_Key\":\"Expected measurements (preview)\",\"Expected_Measurements_Desc_Key\":\"The set of measurements that should be captured by the user\",\"Expected_Measurements_Labels_Display_Key\":\"Expected measurement labels (preview)\",\"Expected_Measurements_Labels_Desc_Key\":\"The string column in the Items data source that specifies the labels for the measurements\",\"Expected_Measurements_Measurement_Type_Display_Key\":\"Expected measurement type (preview)\",\"Expected_Measurements_Measurement_Type_Desc_Key\":\"The string column in the Items data source that specifies measurement type overrides (distance, area, volume, freeform, or not specified) for each expected measurement\",\"Expected_Measurements_Box_Draw_Display_Key\":\"Expected measurement box draw (preview)\",\"Expected_Measurements_Box_Draw_Desc_Key\":\"The boolean column in the Items data source that specifies box draw overrides (true, false, or not specified) for each expected measurement\",\"MeasureButton_EnableShadows\":\"Enable Shadows\",\"MeasureButton_EnableShadows_Description\":\"Enable Shadows for your models\",\"MeasureButton_Sample_Data_Prompt\":\"Taking measurements with your camera is available on Mixed Reality capable devices. Sample results are provided to help test your app during authoring. Click to learn more.\"}}}",
       "Type": 3

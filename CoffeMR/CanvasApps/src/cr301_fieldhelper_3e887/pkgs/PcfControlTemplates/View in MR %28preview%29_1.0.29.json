@@ -9,6 +9,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -20,6 +21,7 @@
         "PropertyKind": 2,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 29,
         "WizardStep": null
       },
@@ -31,6 +33,7 @@
         "PropertyKind": 1,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -42,6 +45,7 @@
         "PropertyKind": 2,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 30,
         "WizardStep": null
       },
@@ -53,6 +57,7 @@
         "PropertyKind": 2,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -64,6 +69,7 @@
         "PropertyKind": 1,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -75,6 +81,7 @@
         "PropertyKind": 2,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 29,
         "WizardStep": null
       },
@@ -86,6 +93,7 @@
         "PropertyKind": 2,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 31,
         "WizardStep": null
       },
@@ -97,6 +105,7 @@
         "PropertyKind": 2,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 32,
         "WizardStep": null
       },
@@ -108,6 +117,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -119,6 +129,7 @@
         "PropertyKind": 1,
         "SectionIndex": 1,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -130,6 +141,7 @@
         "PropertyKind": 1,
         "SectionIndex": 1,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -141,6 +153,7 @@
         "PropertyKind": 2,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 32,
         "WizardStep": null
       },
@@ -152,6 +165,7 @@
         "PropertyKind": 1,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 33,
         "WizardStep": null
       },
@@ -163,6 +177,7 @@
         "PropertyKind": 1,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -174,6 +189,7 @@
         "PropertyKind": 1,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 34,
         "WizardStep": null
       },
@@ -185,6 +201,7 @@
         "PropertyKind": 2,
         "SectionIndex": 3,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -196,6 +213,7 @@
         "PropertyKind": 2,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 29,
         "WizardStep": null
       },
@@ -207,6 +225,7 @@
         "PropertyKind": 2,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 31,
         "WizardStep": null
       },
@@ -218,6 +237,7 @@
         "PropertyKind": 2,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 32,
         "WizardStep": null
       },
@@ -229,6 +249,7 @@
         "PropertyKind": 2,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 35,
         "WizardStep": null
       },
@@ -240,6 +261,7 @@
         "PropertyKind": 1,
         "SectionIndex": 2,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -251,6 +273,7 @@
         "PropertyKind": 1,
         "SectionIndex": 1,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -262,6 +285,7 @@
         "PropertyKind": 1,
         "SectionIndex": 1,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -273,6 +297,7 @@
         "PropertyKind": 1,
         "SectionIndex": 1,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -284,6 +309,7 @@
         "PropertyKind": 1,
         "SectionIndex": 4,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -295,6 +321,7 @@
         "PropertyKind": 1,
         "SectionIndex": 4,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -306,6 +333,7 @@
         "PropertyKind": 1,
         "SectionIndex": 4,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -317,6 +345,7 @@
         "PropertyKind": 1,
         "SectionIndex": 4,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -328,6 +357,7 @@
         "PropertyKind": 2,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 29,
         "WizardStep": null
       },
@@ -339,6 +369,7 @@
         "PropertyKind": 2,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 31,
         "WizardStep": null
       },
@@ -350,6 +381,7 @@
         "PropertyKind": 2,
         "SectionIndex": 6,
         "SectionName": null,
+        "SectionType": null,
         "Type": 32,
         "WizardStep": null
       },
@@ -361,6 +393,7 @@
         "PropertyKind": 1,
         "SectionIndex": 1,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -372,6 +405,7 @@
         "PropertyKind": 2,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 37,
         "WizardStep": null
       },
@@ -383,6 +417,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -394,6 +429,7 @@
         "PropertyKind": 1,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 40,
         "WizardStep": null
       },
@@ -405,6 +441,7 @@
         "PropertyKind": 2,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 31,
         "WizardStep": null
       },
@@ -416,6 +453,7 @@
         "PropertyKind": 2,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 36,
         "WizardStep": null
       },
@@ -427,6 +465,7 @@
         "PropertyKind": 1,
         "SectionIndex": 1,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -438,6 +477,7 @@
         "PropertyKind": 1,
         "SectionIndex": 5,
         "SectionName": null,
+        "SectionType": null,
         "Type": 42,
         "WizardStep": null
       },
@@ -449,6 +489,7 @@
         "PropertyKind": 1,
         "SectionIndex": 3,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -460,6 +501,7 @@
         "PropertyKind": 2,
         "SectionIndex": 3,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -471,6 +513,7 @@
         "PropertyKind": 2,
         "SectionIndex": 3,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -482,6 +525,7 @@
         "PropertyKind": 2,
         "SectionIndex": 3,
         "SectionName": null,
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       }
@@ -495,6 +539,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -506,6 +551,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -517,6 +563,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -528,6 +575,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -539,6 +587,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -550,6 +599,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -561,6 +611,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -572,6 +623,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -583,6 +635,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -594,6 +647,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -605,6 +659,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -616,6 +671,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -627,6 +683,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -638,6 +695,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -649,6 +707,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -660,6 +719,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -671,6 +731,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -682,6 +743,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -693,6 +755,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -704,6 +767,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -715,6 +779,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -726,6 +791,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -737,6 +803,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -748,6 +815,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -759,6 +827,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -770,6 +839,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -781,6 +851,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -792,6 +863,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -803,6 +875,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -814,6 +887,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -825,6 +899,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -836,6 +911,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       },
@@ -847,6 +923,7 @@
         "PropertyKind": 1,
         "SectionIndex": 0,
         "SectionName": "Design",
+        "SectionType": null,
         "Type": 0,
         "WizardStep": null
       }
@@ -858,14 +935,16 @@
       "DisplayName": "OnChange",
       "Hidden": false,
       "IsPrimaryInput": false,
-      "Name": "OnChange"
+      "Name": "OnChange",
+      "PfxDefaultValue": null
     },
     {
       "Description": "",
       "DisplayName": "OnSelect",
       "Hidden": false,
       "IsPrimaryInput": false,
-      "Name": "OnSelect"
+      "Name": "OnSelect",
+      "PfxDefaultValue": null
     }
   ],
   "ControlConstructor": "ViewInMR",
@@ -877,7 +956,8 @@
       "DisplayName": "On Mixed Reality Select",
       "Hidden": false,
       "IsPrimaryInput": false,
-      "Name": "OnMixedRealitySelect"
+      "Name": "OnMixedRealitySelect",
+      "PfxDefaultValue": null
     }
   ],
   "IncludedProperties": [
@@ -2608,6 +2688,13 @@
     },
     {
       "IsControlSpecific": false,
+      "LoadingOrder": 5,
+      "ModifiedPath": "",
+      "Path": "/ctrllib/common/js/container.js",
+      "Type": 0
+    },
+    {
+      "IsControlSpecific": false,
       "LoadingOrder": 6,
       "ModifiedPath": "",
       "Path": "/ctrllib/PCFControls/js/PCFControlWrapper.js",
@@ -2622,693 +2709,693 @@
     },
     {
       "IsControlSpecific": false,
-      "LoadingOrder": 7,
+      "LoadingOrder": 8,
       "ModifiedPath": "",
-      "Path": "{\"Id\":\"ManifestTemplate\",\"Data\":{\"ConstructorName\":\"Microsoft.ViewInMR\",\"CustomControlId\":\"Microsoft.ViewInMR\",\"IsVirtual\":false,\"Properties\":{\"Resources\":[{\"Name\":\"/PCF/prop-types.js\",\"LoadOrder\":1,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/PCF/react-fela.js\",\"LoadOrder\":2,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/PCF/fela.js\",\"LoadOrder\":3,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/PCF/fela-dom.js\",\"LoadOrder\":4,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/ctrllib/PCFControls/js/PCFControlWrapper.js\",\"LoadOrder\":6,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/ctrllib/PcfControlProxy/js/PcfControlProxy.js\",\"LoadOrder\":7,\"Type\":0,\"LibraryName\":null}],\"GroupDefinitions\":null,\"DataSetDefinitions\":{\"Items\":{\"DisplayName\":\"Sources List\",\"Type\":\"Grid\",\"Columns\":{\"0\":{\"Required\":true,\"Usage\":2,\"Name\":\"ItemsSource\",\"Type\":\"SingleLine_Text\"},\"1\":{\"Required\":false,\"Usage\":2,\"Name\":\"ItemsLabel\",\"Type\":\"SingleLine_Text\"},\"2\":{\"Required\":false,\"Usage\":2,\"Name\":\"ItemsThumbnail\",\"Type\":\"SingleLine_Text\"},\"3\":{\"Required\":false,\"Usage\":2,\"Name\":\"ItemsObjectWidth\",\"Type\":\"Decimal\"},\"4\":{\"Required\":false,\"Usage\":2,\"Name\":\"ItemsObjectHeight\",\"Type\":\"Decimal\"},\"5\":{\"Required\":false,\"Usage\":2,\"Name\":\"ItemsObjectDepth\",\"Type\":\"Decimal\"}},\"Primary\":true,\"InitialDataSetFetch\":true,\"CDSDataSetOptions\":null}},\"Properties\":{\"Source\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"https://raw.githubusercontent.com/microsoft/experimental-pcf-control-assets/master/default_cube.glb\"},\"ObjectWidth\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"\"},\"ObjectHeight\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"\"},\"ObjectDepth\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"\"},\"Units\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"Meters\"},\"EnableShadows\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"true\"},\"EnableMarkerDetection\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"EnableOcclusion\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"true\"},\"Text\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"View in MR\"},\"AltText\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"\"},\"Photos\":{\"Required\":true,\"Usage\":2,\"DefaultValue\":\"\"},\"DisplayType\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"IconText\"},\"PaddingTop\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"5\"},\"PaddingBottom\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"5\"},\"PaddingLeft\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"5\"},\"PaddingRight\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"5\"},\"FillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#3860B2\"},\"TextColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#FFFFFF\"},\"BorderStyle\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"solid\"},\"BorderThickness\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"2\"},\"BorderFillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#2f5197\"},\"BorderRadius\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"10\"},\"Font\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"'Open Sans', sans-serif\"},\"FontSize\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"20\"},\"FontWeight\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"600\"},\"Italic\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"Underline\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"Strikethrough\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"TextAlignment\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"center\"},\"VerticalAlign\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"middle\"},\"Disabled\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"DisabledContentColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#A6A6A6\"},\"DisabledFillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#F4F4F4\"},\"DisabledBorderColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#A6A6A6\"},\"PressedContentColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#3860b2\"},\"PressedFillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#FFFFFF\"},\"PressedBorderColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#3860b2\"},\"HoverContentColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#FFFFFF\"},\"HoverFillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#2f5197\"},\"HoverBorderColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#5873ab\"},\"Items\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"\"},\"Selected\":{\"Required\":true,\"Usage\":2,\"DefaultValue\":\"\"},\"SelectedItems\":{\"Required\":true,\"Usage\":2,\"DefaultValue\":\"\"},\"ItemsSource\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"\"},\"ItemsLabel\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"\"},\"ItemsThumbnail\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"\"},\"ItemsObjectWidth\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"\"},\"ItemsObjectHeight\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"\"},\"ItemsObjectDepth\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"\"}},\"FeatureUsage\":[{\"IsRequired\":true,\"Name\":\"Device.openARViewer\"},{\"IsRequired\":true,\"Name\":\"WebAPI\"}]},\"Events\":{\"OnMixedRealitySelect\":{\"EventName\":\"OnMixedRealitySelect\"}},\"CommonEvents\":null,\"DesignMap\":null,\"PropertyDependencies\":[{\"Input\":\"Text\",\"Output\":\"Photos\",\"RequiredFor\":\"schema\"},{\"Input\":\"Items\",\"Output\":\"Selected\",\"RequiredFor\":\"\"},{\"Input\":\"Items\",\"Output\":\"SelectedItems\",\"RequiredFor\":\"\"}],\"Children\":null}}",
+      "Path": "{\"Id\":\"ManifestTemplate\",\"Data\":{\"ConstructorName\":\"Microsoft.ViewInMR\",\"CustomControlId\":\"Microsoft.ViewInMR\",\"IsVirtual\":false,\"Properties\":{\"Resources\":[{\"Name\":\"/PCF/prop-types.js\",\"LoadOrder\":1,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/PCF/react-fela.js\",\"LoadOrder\":2,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/PCF/fela.js\",\"LoadOrder\":3,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/PCF/fela-dom.js\",\"LoadOrder\":4,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/ctrllib/common/js/container.js\",\"LoadOrder\":5,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/ctrllib/PCFControls/js/PCFControlWrapper.js\",\"LoadOrder\":6,\"Type\":0,\"LibraryName\":null},{\"Name\":\"/ctrllib/PcfControlProxy/js/PcfControlProxy.js\",\"LoadOrder\":7,\"Type\":0,\"LibraryName\":null}],\"GroupDefinitions\":null,\"DataSetDefinitions\":{\"Items\":{\"DisplayName\":\"Sources List\",\"Type\":\"Grid\",\"Columns\":{\"0\":{\"Required\":true,\"Usage\":2,\"Name\":\"ItemsSource\",\"Type\":\"SingleLine_Text\"},\"1\":{\"Required\":false,\"Usage\":2,\"Name\":\"ItemsLabel\",\"Type\":\"SingleLine_Text\"},\"2\":{\"Required\":false,\"Usage\":2,\"Name\":\"ItemsThumbnail\",\"Type\":\"SingleLine_Text\"},\"3\":{\"Required\":false,\"Usage\":2,\"Name\":\"ItemsObjectWidth\",\"Type\":\"Decimal\"},\"4\":{\"Required\":false,\"Usage\":2,\"Name\":\"ItemsObjectHeight\",\"Type\":\"Decimal\"},\"5\":{\"Required\":false,\"Usage\":2,\"Name\":\"ItemsObjectDepth\",\"Type\":\"Decimal\"}},\"Primary\":true,\"InitialDataSetFetch\":true,\"CDSDataSetOptions\":null}},\"Properties\":{\"Source\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"https://raw.githubusercontent.com/microsoft/experimental-pcf-control-assets/master/default_cube.glb\"},\"ObjectWidth\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"\"},\"ObjectHeight\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"\"},\"ObjectDepth\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"\"},\"Units\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"Meters\"},\"EnableShadows\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"true\"},\"EnableMarkerDetection\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"EnableOcclusion\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"true\"},\"Text\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"View in MR\"},\"AltText\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"\"},\"Photos\":{\"Required\":true,\"Usage\":2,\"DefaultValue\":\"\"},\"DisplayType\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"IconText\"},\"PaddingTop\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"5\"},\"PaddingBottom\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"5\"},\"PaddingLeft\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"5\"},\"PaddingRight\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"5\"},\"FillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#3860B2\"},\"TextColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#FFFFFF\"},\"BorderStyle\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"solid\"},\"BorderThickness\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"2\"},\"BorderFillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#2f5197\"},\"BorderRadius\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"10\"},\"Font\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"'Open Sans', sans-serif\"},\"FontSize\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"20\"},\"FontWeight\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"600\"},\"Italic\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"Underline\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"Strikethrough\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"TextAlignment\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"center\"},\"VerticalAlign\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"middle\"},\"Disabled\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"false\"},\"DisabledContentColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#A6A6A6\"},\"DisabledFillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#F4F4F4\"},\"DisabledBorderColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#A6A6A6\"},\"PressedContentColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#3860b2\"},\"PressedFillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#FFFFFF\"},\"PressedBorderColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#3860b2\"},\"HoverContentColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#FFFFFF\"},\"HoverFillColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#2f5197\"},\"HoverBorderColor\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"#5873ab\"},\"Items\":{\"Required\":true,\"Usage\":1,\"DefaultValue\":\"\"},\"Selected\":{\"Required\":true,\"Usage\":2,\"DefaultValue\":\"\"},\"SelectedItems\":{\"Required\":true,\"Usage\":2,\"DefaultValue\":\"\"},\"ItemsSource\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"\"},\"ItemsLabel\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"\"},\"ItemsThumbnail\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"\"},\"ItemsObjectWidth\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"\"},\"ItemsObjectHeight\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"\"},\"ItemsObjectDepth\":{\"Required\":true,\"Usage\":0,\"DefaultValue\":\"\"}},\"FeatureUsage\":[{\"IsRequired\":true,\"Name\":\"Device.openARViewer\"},{\"IsRequired\":true,\"Name\":\"WebAPI\"}]},\"Events\":{\"OnMixedRealitySelect\":{\"EventName\":\"OnMixedRealitySelect\"}},\"CommonEvents\":null,\"DesignMap\":null,\"PropertyDependencies\":[{\"Input\":\"Text\",\"Output\":\"Photos\",\"RequiredFor\":\"schema\"},{\"Input\":\"Items\",\"Output\":\"Selected\",\"RequiredFor\":\"\"},{\"Input\":\"Items\",\"Output\":\"SelectedItems\",\"RequiredFor\":\"\"}],\"Children\":null}}",
       "Type": 3
     },
     {
       "IsControlSpecific": false,
-      "LoadingOrder": 8,
+      "LoadingOrder": 9,
       "ModifiedPath": "",
       "Path": "{\"Id\":\"ManifestPropertyTypes\",\"Data\":{\"Properties\":[{\"Name\":\"Source\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"None\",\"IsPrimary\":true,\"IsIncluded\":false},{\"Name\":\"ObjectWidth\",\"Type\":\"Decimal\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"ObjectHeight\",\"Type\":\"Decimal\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"ObjectDepth\",\"Type\":\"Decimal\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Units\",\"Type\":\"Enum\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"EnableShadows\",\"Type\":\"TwoOptions\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"EnableMarkerDetection\",\"Type\":\"TwoOptions\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"EnableOcclusion\",\"Type\":\"TwoOptions\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Text\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"AltText\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Photos\",\"Type\":\"Object\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"DisplayType\",\"Type\":\"Enum\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"PaddingTop\",\"Type\":\"Whole_None\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"PaddingBottom\",\"Type\":\"Whole_None\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"PaddingLeft\",\"Type\":\"Whole_None\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"PaddingRight\",\"Type\":\"Whole_None\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"FillColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"FillColor\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"TextColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"FontColor\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"BorderStyle\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"BorderStyle\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"BorderThickness\",\"Type\":\"Whole_None\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"BorderFillColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"Color\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"BorderRadius\",\"Type\":\"Whole_None\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Font\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"Font\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"FontSize\",\"Type\":\"Whole_None\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"FontWeight\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"FontWeight\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Italic\",\"Type\":\"TwoOptions\",\"ComplexType\":\"Italics\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Underline\",\"Type\":\"TwoOptions\",\"ComplexType\":\"Underline\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Strikethrough\",\"Type\":\"TwoOptions\",\"ComplexType\":\"Strikethrough\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"TextAlignment\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"Align\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"VerticalAlign\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"VerticalAlign\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Disabled\",\"Type\":\"TwoOptions\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"DisabledContentColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"FontColor\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"DisabledFillColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"FillColor\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"DisabledBorderColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"Color\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"PressedContentColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"FontColor\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"PressedFillColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"FillColor\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"PressedBorderColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"Color\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"HoverContentColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"FontColor\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"HoverFillColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"FillColor\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"HoverBorderColor\",\"Type\":\"SingleLine_Text\",\"ComplexType\":\"Color\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Items\",\"Type\":\"DataSet\",\"ComplexType\":\"None\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"Selected\",\"Type\":\"Object\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"SelectedItems\",\"Type\":\"DataSet\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"ItemsSource\",\"Type\":\"String\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"ItemsLabel\",\"Type\":\"String\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"ItemsThumbnail\",\"Type\":\"String\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"ItemsObjectWidth\",\"Type\":\"String\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"ItemsObjectHeight\",\"Type\":\"String\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"ItemsObjectDepth\",\"Type\":\"String\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":false},{\"Name\":\"PCFTeamsTheme\",\"Type\":\"String\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":true},{\"Name\":\"X\",\"Type\":\"Number\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":true},{\"Name\":\"Y\",\"Type\":\"Number\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":true},{\"Name\":\"Width\",\"Type\":\"Number\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":true},{\"Name\":\"Height\",\"Type\":\"Number\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":true},{\"Name\":\"Visible\",\"Type\":\"Boolean\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":true},{\"Name\":\"DisplayMode\",\"Type\":\"DisplayMode\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":true},{\"Name\":\"TabIndex\",\"Type\":\"Number\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":true},{\"Name\":\"Tooltip\",\"Type\":\"String\",\"ComplexType\":\"\",\"IsPrimary\":false,\"IsIncluded\":true}]}}",
       "Type": 3
     },
     {
       "IsControlSpecific": false,
-      "LoadingOrder": 9,
+      "LoadingOrder": 10,
       "ModifiedPath": "",
       "Path": "{\"Id\":\"PowerAppsControlInfo\",\"Data\":{\"TemplateVersion\":1,\"Version\":\"1.0.29\",\"IsFirstParty\":true}}",
       "Type": 3
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 11,
+      "LoadingOrder": 12,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/bundle.js",
       "Type": 0
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 10,
+      "LoadingOrder": 11,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/libs/babylon.js",
       "Type": 0
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 9,
+      "LoadingOrder": 10,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1033.resx",
       "Type": 2
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 9,
+      "LoadingOrder": 10,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1033.resx",
       "Type": 2
     },
     {
       "IsControlSpecific": false,
-      "LoadingOrder": 14,
+      "LoadingOrder": 15,
       "ModifiedPath": "",
       "Path": "{\"Id\":\"FormattingData\",\"Data\":{\"timeZoneUtcOffsetMinutes\":0,\"dateTimeFormatInfo\":{\"AMDesignator\":\"AM\",\"Calendar\":{\"MinSupportedDateTime\":\"0001-01-01T00:00:00\",\"MaxSupportedDateTime\":\"9999-12-31T23:59:59.9999999\",\"AlgorithmType\":1,\"CalendarType\":1,\"Eras\":[1],\"TwoDigitYearMax\":2049,\"IsReadOnly\":false},\"DateSeparator\":\"/\",\"FirstDayOfWeek\":0,\"CalendarWeekRule\":0,\"FullDateTimePattern\":\"dddd, MMMM d, yyyy h:mm:ss tt\",\"LongDatePattern\":\"dddd, MMMM d, yyyy\",\"LongTimePattern\":\"h:mm:ss tt\",\"MonthDayPattern\":\"MMMM d\",\"PMDesignator\":\"PM\",\"RFC1123Pattern\":\"ddd, dd MMM yyyy HH':'mm':'ss 'GMT'\",\"ShortDatePattern\":\"M/d/yyyy\",\"ShortTimePattern\":\"h:mm tt\",\"SortableDateTimePattern\":\"yyyy'-'MM'-'dd'T'HH':'mm':'ss\",\"TimeSeparator\":\":\",\"UniversalSortableDateTimePattern\":\"yyyy'-'MM'-'dd HH':'mm':'ss'Z'\",\"YearMonthPattern\":\"MMMM yyyy\",\"AbbreviatedDayNames\":[\"Sun\",\"Mon\",\"Tue\",\"Wed\",\"Thu\",\"Fri\",\"Sat\"],\"ShortestDayNames\":[\"Su\",\"Mo\",\"Tu\",\"We\",\"Th\",\"Fr\",\"Sa\"],\"DayNames\":[\"Sunday\",\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\"],\"AbbreviatedMonthNames\":[\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\",\"Jul\",\"Aug\",\"Sep\",\"Oct\",\"Nov\",\"Dec\",\"\"],\"MonthNames\":[\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\",\"\"],\"IsReadOnly\":false,\"NativeCalendarName\":\"Gregorian Calendar\",\"AbbreviatedMonthGenitiveNames\":[\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\",\"Jul\",\"Aug\",\"Sep\",\"Oct\",\"Nov\",\"Dec\",\"\"],\"MonthGenitiveNames\":[\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\",\"\"]},\"numberFormatInfo\":{\"CurrencyDecimalDigits\":2,\"CurrencyDecimalSeparator\":\".\",\"IsReadOnly\":false,\"CurrencyGroupSizes\":[3],\"NumberGroupSizes\":[3],\"PercentGroupSizes\":[3],\"CurrencyGroupSeparator\":\",\",\"CurrencySymbol\":\"$\",\"NaNSymbol\":\"NaN\",\"CurrencyNegativePattern\":0,\"NumberNegativePattern\":1,\"PercentPositivePattern\":1,\"PercentNegativePattern\":1,\"NegativeInfinitySymbol\":\"-∞\",\"NegativeSign\":\"-\",\"NumberDecimalDigits\":2,\"NumberDecimalSeparator\":\".\",\"NumberGroupSeparator\":\",\",\"CurrencyPositivePattern\":0,\"PositiveInfinitySymbol\":\"∞\",\"PositiveSign\":\"+\",\"PercentDecimalDigits\":2,\"PercentDecimalSeparator\":\".\",\"PercentGroupSeparator\":\",\",\"PercentSymbol\":\"%\",\"PerMilleSymbol\":\"‰\",\"NativeDigits\":[\"0\",\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\"],\"DigitSubstitution\":1},\"timeZoneAdjusters\":[],\"formatInfoCultureName\":\"en-US\",\"formatter\":null,\"languagesByCode\":{\"1033\":\"English (United States)\",\"-1\":\"All Languages\"}}}",
       "Type": 3
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1025.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1026.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1027.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1028.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1029.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1030.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1031.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1032.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1033.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1035.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1036.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1037.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1038.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1040.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1041.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1042.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1043.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1044.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1045.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1046.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1048.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1049.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1050.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1051.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1053.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1054.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1055.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1057.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1058.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1060.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1061.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1062.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1063.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1066.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1069.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1081.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1086.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1087.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.1110.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.2052.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.2070.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.2074.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.3076.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.3082.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ArButton.3098.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1025.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1026.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1027.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1028.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1029.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1030.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1031.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1032.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1033.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1035.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1036.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1037.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1038.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1040.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1041.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1042.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1043.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1044.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1045.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1046.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1048.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1049.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1050.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1051.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1053.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1054.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1055.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1057.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1058.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1060.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1061.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1062.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1063.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1066.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1069.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1081.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1086.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1087.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.1110.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.2052.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.2070.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.2074.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.3076.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.3082.json",
       "Type": 5
     },
     {
       "IsControlSpecific": true,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "/PCFControls/ViewInMR/strings/ViewIn3DBase.3098.json",
       "Type": 5
     },
     {
       "IsControlSpecific": false,
-      "LoadingOrder": 15,
+      "LoadingOrder": 16,
       "ModifiedPath": "",
       "Path": "{\"Id\":\"LocalizedStrings\",\"Data\":{\"LocStrings\":{\"PCF_ArButton\":\"View in MR (preview)\",\"PCF_ArButton_description\":\"View content in mixed reality\",\"PCF_ArButton_Source\":\"Source\",\"PCF_ArButton_Source_description\":\"Content source (.glb for 3D objects, .png or .jpg for 2D images) of what to display in mixed reality\",\"PCF_ArButton_WrongType\":\"Failed to load or parse file. Click here to learn more about supported file types.\",\"PCF_ArButton_UrlIssue\":\"URL issue. Make sure your source is coming from an HTTPS link and points to a GLB, OBJ, STL, PNG, or JPG file.\",\"PCF_ArButton_EmptySource\":\"Missing source location. To view an object in mixed reality, add the object's source.\",\"PCF_ArButton_ConnectionIssue\":\"Cannot access your content. Check your internet connection and try again.\",\"PCF_ArButton_CorsIssue\":\"CORS policy issue. Make sure your source is coming from an HTTPS link. Learn more about CORS. \",\"PCF_ArButton_Length\":\"Object depth\",\"Pcf_ArButton_Length_Description\":\"Depth of the object to be placed (Z-axis); enter 0 to auto-size\",\"PCF_ArButton_Width\":\"Object width\",\"Pcf_ArButton_Width_Description\":\"Width of the object to be placed (X-axis)\",\"PCF_ArButton_Height\":\"Object height\",\"Pcf_ArButton_Height_Description\":\"Height of the object to be placed (Y-axis)\",\"PCF_ArButton_Default_Length\":\"Object default depth\",\"Pcf_ArButton_Default_Length_Description\":\"Default depth of the object to be placed (Z-axis); enter 0 to auto-size\",\"PCF_ArButton_Default_Width\":\"Object default width\",\"Pcf_ArButton_Default_Width_Description\":\"Default width of the object to be placed (X-axis); enter 0 to auto-size\",\"PCF_ArButton_Default_Height\":\"Object default height\",\"Pcf_ArButton_Default_Height_Description\":\"Default height of the object to be placed (Y-axis); enter 0 to auto-size\",\"PCF_Units\":\"Unit of measurement\",\"PCF_AR_Units_Description\":\"Base units to use for setting the size of the placed object: meters, centimeters, feet, inches\",\"Units_Meters\":\"Meters\",\"Units_Meters_Description\":\"Equal to 100 centimeters\",\"Units_Centimeters\":\"Centimeters\",\"Units_Centimeters_Description\":\"Equal to 1/100 of a meter\",\"Units_Feet\":\"Feet\",\"Units_Feet_Description\":\"Equal to 12 inches\",\"Units_Inches\":\"Inches\",\"Units_Inches_Description\":\"Equal to 1/12 of a foot\",\"PCF_images_name\":\"Photos\",\"PCF_images_description\":\"The photos from the last mixed reality session.\",\"PCF_ErrorHelper_ArErrorMessage\":\"To view this object in your space, open this app in the Power Apps mobile app on a Mixed Reality capable device. \",\"PCF_ErrorHelper_ArErrorMessageLearnMore\":\"Click here to view device requirements and learn more.\",\"PCF_ErrorHelper_GenericArError\":\"Error encountered while trying to display content in mixed reality\",\"PCF_ErrorHelper_ArAppUpdateRequired\":\"The version of Power Apps installed on your device does not support this functionality.  Please install the latest version from the store and try again.\",\"PCF_ErrorHelper_ArControlUpdateRequired\":\"This MR functionality is no longer supported.  Ask the creator of this PowerApp to update it to use the latest MR controls.\",\"PCF_ErrorHelper_LongLoad\":\"Your model is taking a bit longer to load than expected.\",\"PCF_ArButton_SourceIntroMessage\":\"Set the Source property to interact with 3D content. Source can be a URL, an attachment, or media from a data connector. Click to learn more.\",\"Button_Base_DefaultText\":\"View in MR\",\"Button_Base_Text\":\"Text\",\"Button_Base_Text_description\":\"Button text\",\"Button_Base_AltText\":\"Alternative text\",\"Button_Base_AltText_description\":\"Alternative text for describing the mixed reality object\",\"Button_Base_DisplayType\":\"Display type\",\"Button_Base_DisplayType_description\":\"Button display type: Icon, Text, IconText\",\"DisplayType_Icon_Text\":\"Icon + text\",\"Display_Type_Icon_Text_Description\":\"Display both an icon and text\",\"Display_Type_Text\":\"Text\",\"Display_Type_Text_Description\":\"Display text only\",\"Display_Type_Icon\":\"Icon\",\"Display_Type_Icon_Description\":\"Display icon only\",\"Button_Base_PaddingTop\":\"Padding top\",\"Button_Base_PaddingTop_description\":\"Button padding top\",\"Button_Base_PaddingBottom\":\"Padding bottom\",\"Button_Base_PaddingBottom_description\":\"Button padding bottom\",\"Button_Base_PaddingLeft\":\"Padding left\",\"Button_Base_PaddingLeft_description\":\"Button padding left\",\"Button_Base_PaddingRight\":\"Padding right\",\"Button_Base_PaddingRight_description\":\"Button padding right\",\"Button_Base_FillColor\":\"Fill color\",\"Button_Base_FillColor_description\":\"Button fill color\",\"Button_Base_TextColor\":\"Text color\",\"Button_Base_TextColor_description\":\"Button text color\",\"Button_Base_BorderStyle\":\"Border style\",\"Button_Base_BorderStyle_description\":\"Button border style: solid, dashed, dotted, none\",\"Button_Base_BorderThickness\":\"Border thickness\",\"Button_Base_BorderThickness_description\":\"Button border thickness (width)\",\"Button_Base_BorderFillColor\":\"Border fill color\",\"Button_Base_BorderFillColor_description\":\"Border fill color of the button\",\"Button_Base_BorderRadius\":\"Border radius\",\"Button_Base_BorderRadius_description\":\"Border radius of the button: 0 creates a rectangular button, 100 creates a circular button\",\"Button_Base_Font\":\"Font\",\"Button_Base_Font_description\":\"Font of the text on the button\",\"Button_Base_FontSize\":\"Font size\",\"Button_Base_FontSize_description\":\"Font size of the text on the button\",\"Button_Base_FontWeight\":\"Font weight\",\"Button_Base_FontWeight_description\":\"Font weight of the text on the button\",\"Button_Base_FontStyle\":\"Font style\",\"Button_Base_FontStyle_description\":\"Font style of the text on the button\",\"Button_Base_TextAlignment\":\"Text alignment\",\"Button_Base_TextAlignment_description\":\"Text alignment of the text on the button\",\"Button_Base_VerticalAlign\":\"Vertical alignment\",\"Button_Base_VerticalAlign_description\":\"Vertical alignment of the text on the button\",\"Button_Base_Disabled\":\"Disabled\",\"Button_Base_Disabled_description\":\"Sets the button as disabled\",\"Button_Base_DisabledColor\":\"Disabled color\",\"Button_Base_DisabledColor_description\":\"Sets the disabled button content color\",\"Button_Base_DisabledFillColor\":\"Disabled fill color\",\"Button_Base_DisabledFillColor_description\":\"Sets the disabled button fill color\",\"Button_Base_DisabledBorderColor\":\"Disabled border color\",\"Button_Base_DisabledBorderColor_description\":\"Sets the disabled button border color\",\"Button_Base_PressedColor\":\"Pressed color\",\"Button_Base_PressedColor_description\":\"Sets the pressed button content color\",\"Button_Base_PressedFillColor\":\"Pressed fill color\",\"Button_Base_PressedFillColor_description\":\"Sets the pressed button fill color\",\"Button_Base_PressedBorderColor\":\"Pressed border color\",\"Button_Base_PressedBorderColor_description\":\"Sets the pressed button border color\",\"Button_Base_HoverColor\":\"Hover color\",\"Button_Base_HoverColor_description\":\"Sets the hover button content color\",\"Button_Base_HoverFillColor\":\"Hover fill color\",\"Button_Base_HoverFillColor_description\":\"Sets the hover button fill color\",\"Button_Base_HoverBorderColor\":\"Hover border color\",\"Button_Base_HoverBorderColor_description\":\"Sets the hover button border color\",\"Button_Base\":\"MR measure button (preview)\",\"Button_Base_description\":\"Measure the real world using your device\",\"Button_Base_Loading\":\"Loading...\",\"Italic_Display_Key\":\"Italic\",\"Italic_Desc_Key\":\"Italic\",\"Underline_Display_Key\":\"Underline\",\"Underline_Desc_Key\":\"Underline\",\"Strikethrough_Display_Key\":\"Strikethrough\",\"Strikethrough_Desc_Key\":\"Strikethrough\",\"ArButton_OnMixedRealitySelect\":\"On Mixed Reality Select\",\"ArButton_OnMixedRealitySelect_description\":\"Event to be triggered after the user returns from the View in MR screen\",\"ArButton_EnableShadows\":\"Enable shadows\",\"ArButton_EnableShadows_Description\":\"Enable shadows for your models\",\"ArButton_EnableOcclusion\":\"Enable occlusion\",\"ArButton_EnableOcclusion_Description\":\"3D virtual objects are hidden behind real physical surfaces\",\"Sources_Property_Display_Key\":\"Sources List\",\"Sources_Property_Description_Key\":\"Provide multiple sources to be placed in mixed reality\",\"Sources_Property_Source_Display_Key\":\"Source\",\"Sources_Property_Source_Description_Key\":\"Content source (3D models or images) of what to display in mixed reality\",\"Sources_Property_Label_Display_Key\":\"Label\",\"Sources_Property_Label_Description_Key\":\"Label used when showing the source in a list\",\"Sources_Property_Thumbnail_Display_Key\":\"Thumbnail\",\"Sources_Property_Thumbnail_Description_Key\":\"Thumbnail displayed when showing the source in a list\",\"Sources_Property_Width_Display_Key\":\"Object width\",\"Sources_Property_Width_Description_Key\":\"Width of the object to be placed (X-axis)\",\"Sources_Property_Height_Display_Key\":\"Object height\",\"Sources_Property_Height_Description_Key\":\"Height of the object to be placed (Y-axis)\",\"Sources_Property_Depth_Display_Key\":\"Object depth\",\"Sources_Property_Depth_Description_Key\":\"Depth of the object to be placed (Z-axis)\",\"Multi_Model_Update_Required\":\"Viewing multiple items in mixed reality is not supported on this version of Power Apps. Only the first item will be shown. Install the latest version from the store to enable this feature.\",\"PCF_3DViewer_LoadingObject\":\"Loading 3D content ({0} downloaded)\",\"PCF_3DViewer_Error_EmptySource\":\"Empty Source\",\"PCF_3DViewer_Error_EmptySourceDescription\":\"To view content in 3D, add your GLB source location in the properties pane on the right hand side. ##LINK0## Read our documentation ##/LINK0## for more information.\",\"PCF_3DViewer_Error_CannotViewContent\":\"Cannot view content\",\"PCF_3DViewer_Error_CannotViewContentDescription\":\"View in 3D can only display 3D content in the GLB, OBJ, or STL formats, ##LINK0## learn how to convert your content. ##/LINK0##\",\"PCF_3DViewer_Error_CannotAccess\":\"Cannot access your content\",\"PCF_3DViewer_Error_CannotAccessDescription\":\"Check your internet connection or ##LINK0## read our documentation ##/LINK0## for more information. \",\"PCF_3DViewer_Error_CORSIssue\":\"CORS policy issue\",\"PCF_3DViewer_Error_CORSIssueDescription\":\"Make sure your source is coming from an HTTPS link. ##LINK0## Learn more about CORS here. ##/LINK0##\",\"PCF_3DViewer_Error_Babylon\":\"Cannot view content\",\"PCF_3DViewer_Error_BabylonDescription\":\"Something went wrong while displaying the content.\",\"PCF_3DViewer_Error_TooManyInstances\":\"Too many 3D viewers\",\"PCF_3DViewer_Error_TooManyInstancesDescription\":\"There are too many View in 3D controls currently being shown. ##LINK0## Read our documentation ##/LINK0## for more information.\",\"PCF_3DViewer_Error_CannotUseCompressedFolders\":\"Compressed folders are not supported\",\"PCF_3DViewer_Error_CannotUseCompressedFoldersDescription\":\"3D models must be in the GLB, OBJ, or STL formats.\",\"PCF_3DViewer_Error_UnexpectedMagicNumber\":\"Invalid 3D model\",\"PCF_3DViewer_Error_UnexpectedMagicNumberDescription\":\"Check your model source file. The file is corrupt or not a valid GLB file.\",\"PCF_3DViewer_Error_ZeroFileSize\":\"File is empty\",\"PCF_3DViewer_Error_ZeroFileSizeDescription\":\"The 3D model file is empty.\",\"PCF_3DViewer_SourceIntroMessage\":\"Set the Source property to easily add 3D content. Source can be a URL, an attachment, or media from a data connector. Click to learn more.\",\"PCF_3DViewer_AriaSVGImage\":\"Error Cube with an X\",\"PCF_3DViewer_BabylonCanvasAriaLabel\":\"Interactive canvas to view and manipulate a 3D model, with alt text: {0}.\",\"PCF_3DViewer_PercentSign\":\"%\",\"PCF_3DViewer_Reset\":\"Reset\",\"PCF_3DViewer_ResetDescription\":\"Reset the model back to the initial position\",\"PCF_3DViewer_Error_Offline\":\"Offline\",\"PCF_3DViewer_Error_OfflineDescription\":\"Cannot access your content. Check your internet connection.\",\"PCF_3DViewer_Error_CreateForm\":\"Upload File\",\"PCF_3DViewer_Error_CreateFormDescription\":\"This record hasn't been created yet. To view content, create this record\",\"PCF_3DViewer_Error_FileTooLarge\":\"File Too Large\",\"PCF_3DViewer_Error_FileTooLargeDescription\":\"The uploaded file is too large, ##LINK0## learn how to optimize your content. ##/LINK0##\",\"PCF_3DViewer_LongLoadLearnMore\":\"We're loading your model. If this is taking longer than expected, you might need to optimize your model for mixed reality. Click here to learn more.\",\"PCF_3DViewer_HangOnLargeFile\":\"Hang on, we are loading a large file ({0} downloaded)\",\"PCF_3DViewer_FinishingUp\":\"Finishing up ({0} downloaded)\",\"Keyboard_Camera_Aria_PanLeft\":\"Move model right\",\"Keyboard_Camera_Aria_PanRight\":\"Move model left\",\"Keyboard_Camera_Aria_PanUp\":\"Move model down\",\"Keyboard_Camera_Aria_PanDown\":\"Move model up\",\"Keyboard_Camera_Aria_RotateLeft\":\"Rotate model clockwise\",\"Keyboard_Camera_Aria_RotateRight\":\"Rotate model counter clockwise\",\"Keyboard_Camera_Aria_TumbleUp\":\"Rotate model backward\",\"Keyboard_Camera_Aria_TumbleDown\":\"Rotate model forward\",\"Keyboard_Camera_Aria_ZoomIn\":\"Zoom in on model\",\"Keyboard_Camera_Aria_ZoomOut\":\"Zoom out on model\",\"Keyboard_Camera_Aria_Reset\":\"Resetting camera on model\",\"Pin_Select_Aria\":\"Pin selected at coordinate X {0}. Y {1}. Z {2}.\",\"Enable_Marker_Detection\":\"Enable marker detection\",\"Enable_Marker_Detection_Description\":\"Detect markers placed in your physical space for accurate placement of media\",\"Marker_Detection_LearnMore\":\"Marker detection requires that you put a physical marker in your space. Click here to get the marker.\",\"Marker_Detection_Update_Required\":\"Marker detection in mixed reality is not supported on this version of Power Apps. Install the latest version from the store to enable this feature.\",\"PCF_3DViewer_Bytes\":\"bytes\",\"PCF_3DViewer_KB\":\"KB\",\"PCF_3DViewer_MB\":\"MB\",\"PCF_3DViewer_GB\":\"GB\",\"StudioPreview_NavBar_Title\":\"View {0}\",\"StudioPreview_NavBar_CloseButton_AccessibilityLabel\":\"Close\",\"PCF_3DViewer_Media\":\"Media\"}}}",
       "Type": 3

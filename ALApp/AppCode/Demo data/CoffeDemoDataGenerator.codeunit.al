@@ -1,17 +1,13 @@
 codeunit 70032 CoffeDemoDataGenerator
 {
     var
-        DeleteDemodataConfirmationQst: Label 'Are you sure you want to delete all sample data generated for the Take Order app?';
-        DemodataDeletedMsg: Label 'Sample data deleted successfully.';
-        DemodataCreatedMsg: Label 'Sample data created successfully.';
         InvalidItemTemplateErr: Label 'We tried to create some sample items, but we could not apply the template "%1". Make sure you are running in an evaluation company with a valid item template.';
-        InvalidCustTemplateErr: Label 'We tried to create some sample customers, but we could not apply the template "%1". Make sure you are running in an evaluation company with a valid customer template.';
 
     procedure GenerateDemoData()
     var
-        itemRecord: Record Item;
-        itemImageCodeUnit: Codeunit CoffeeMachineImages;
-        itemimageCodeUnitExtra: Codeunit CoffeeExtrasImages;
+        ItemRecord: Record Item;
+        CoffeeMachineImages: Codeunit CoffeeMachineImages;
+        CoffeeExtrasImages: Codeunit CoffeeExtrasImages;
     begin
 
         // Add item catagories
@@ -21,32 +17,32 @@ codeunit 70032 CoffeDemoDataGenerator
         AddItemCatagories('Accessory', 'accessory');
 
         // Add Coffee machines
-        AddItem('CM001', 'Contoso SLIM 2018 San Diego', 'Contoso SLIM 2018 San Diego', 'finishedGoods', 699, itemImageCodeUnit.C0001_2018SandiagoSlim());
-        AddItem('CM002', 'Contoso SLIM 2019 Las Vegas', 'Contoso SLIM 2019 Las Vegas', 'finishedGoods', 850, itemImageCodeUnit.C0002_2019LasVegaSlim());
-        AddItem('CM003', 'Contoso MINI 2018 San Diego', 'Contoso MINI 2018 San Diego', 'finishedGoods', 499, itemImageCodeUnit.C0003_2018SandiagoMini());
-        AddItem('CM004', 'Contoso MINI 2022 Orlando', 'Contoso MINI 2022 Orlando', 'finishedGoods', 499, itemImageCodeUnit.C0004_2022OrlandoMini());
-        AddItem('CM005', 'Contoso MINI 2023 Orlando', 'Contoso MINI 2023 Orlando', 'finishedGoods', 699, itemImageCodeUnit.C0005_2023OrlandoMini());
-        AddItem('CM006', 'Contoso PRO SLIM 2023 Orlando', 'Contoso PRO SLIM 2023 Orlando', 'finishedGoods', 699, itemImageCodeUnit.C0006_2023OrlandoProSlim());
-        AddItem('CM007', 'Contoso MINI 2019 Las Vegas', 'Contoso MIINI 2019 Las Vegas', 'finishedGoods', 699, itemImageCodeUnit.C0007_2019LasVegasMini());
+        AddItem('CM001', 'Contoso SLIM 2018 San Diego', 'Contoso SLIM 2018 San Diego', 'finishedGoods', 699, CoffeeMachineImages.C0001_2018SandiagoSlim(), 40, 15, 23);
+        AddItem('CM002', 'Contoso SLIM 2019 Las Vegas', 'Contoso SLIM 2019 Las Vegas', 'finishedGoods', 850, CoffeeMachineImages.C0002_2019LasVegaSlim(), 20, 20, 26);
+        AddItem('CM003', 'Contoso MINI 2018 San Diego', 'Contoso MINI 2018 San Diego', 'finishedGoods', 499, CoffeeMachineImages.C0003_2018SandiagoMini(), 50, 30, 60);
+        AddItem('CM004', 'Contoso MINI 2022 Orlando', 'Contoso MINI 2022 Orlando', 'finishedGoods', 499, CoffeeMachineImages.C0004_2022OrlandoMini(), 15, 20, 15);
+        AddItem('CM005', 'Contoso MINI 2023 Orlando', 'Contoso MINI 2023 Orlando', 'finishedGoods', 699, CoffeeMachineImages.C0005_2023OrlandoMini(), 32, 20, 18);
+        AddItem('CM006', 'Contoso PRO SLIM 2023 Orlando', 'Contoso PRO SLIM 2023 Orlando', 'finishedGoods', 699, CoffeeMachineImages.C0006_2023OrlandoProSlim(), 10, 9, 40);
+        AddItem('CM007', 'Contoso MINI 2019 Las Vegas', 'Contoso MIINI 2019 Las Vegas', 'finishedGoods', 699, CoffeeMachineImages.C0007_2019LasVegasMini(), 14, 7, 60);
 
         // Add extras items for coffee machines
-        AddItem('E0001', 'Coffee beans', 'Freshly roasted beans for brewing coffee', 'consumables', 12, itemimageCodeUnitExtra.E0001_beans());
-        AddItem('E0002', 'Paper filters', 'Disposable filters for drip or pour-over coffee makers', 'consumables', 6, itemimageCodeUnitExtra.E0002_paperFilters());
-        AddItem('E0003', 'Descaling solution', 'Solution for removing mineral buildup from the coffee machine', 'consumables', 10, itemimageCodeUnitExtra.E0003_descaling());
-        AddItem('E0004', 'Milk frothing pitcher', 'Stainless steel pitcher for steaming and frothing milk', 'consumables', 15, itemimageCodeUnitExtra.E0004_milkFrothePither());
-        AddItem('E0005', 'Tamper', 'Tool used to compress ground coffee in the portafilter', 'accessory', 20, itemimageCodeUnitExtra.E0005_tamper());
-        AddItem('E0006', 'Milk frother attachment', 'Attachment for making frothed milk for cappuccinos and lattes', 'accessory', 25, itemimageCodeUnitExtra.E0006_milkFrother());
-        AddItem('E0007', 'Portafilter basket', 'Replacement or additional basket for the portafilter', 'accessory', 12, itemimageCodeUnitExtra.E0007_portaFilterBasket());
-        AddItem('E0008', 'Knock box for used coffee grounds', 'Container for discarding used coffee grounds', 'accessory', 30, itemimageCodeUnitExtra.E0008_box());
-        AddItem('E0009', 'Replacement water filter cartridge', 'Replacement cartridge for the water filtration system in the machine', 'accessory', 8, itemimageCodeUnitExtra.E0009_waterFilter());
-        AddItem('E0010', 'Cleaning brush', 'Small brush for cleaning the grouphead, portafilter, and steam wand', 'maintenance', 7, itemimageCodeUnitExtra.E0010_CleaningBrush());
-        AddItem('E0011', 'Grouphead cleaning powder', 'Powder for removing coffee oils and residue from the grouphead', 'maintenance', 9, itemimageCodeUnitExtra.E0011_CleaningPowder());
-        AddItem('E0012', 'Steam wand cleaning solution', 'Solution for removing milk residue from the steam wand', 'maintenance', 12, itemimageCodeUnitExtra.E0012_SteamWandcleaningSolution());
-        AddItem('E0013', 'Drip tray liners', 'Disposable liners for collecting drips and spills from the machine', 'maintenance', 5, itemimageCodeUnitExtra.E0013_DripTrayLiners());
+        AddItem('E0001', 'Coffee beans', 'Freshly roasted beans for brewing coffee', 'consumables', 12, CoffeeExtrasImages.E0001_beans(), 3, 6, 2);
+        AddItem('E0002', 'Paper filters', 'Disposable filters for drip or pour-over coffee makers', 'consumables', 6, CoffeeExtrasImages.E0002_paperFilters(), 2, 6, 6);
+        AddItem('E0003', 'Descaling solution', 'Solution for removing mineral buildup from the coffee machine', 'consumables', 10, CoffeeExtrasImages.E0003_descaling(), 8, 4, 4);
+        AddItem('E0004', 'Milk frothing pitcher', 'Stainless steel pitcher for steaming and frothing milk', 'consumables', 15, CoffeeExtrasImages.E0004_milkFrothePither(), 5, 4, 4);
+        AddItem('E0005', 'Tamper', 'Tool used to compress ground coffee in the portafilter', 'accessory', 20, CoffeeExtrasImages.E0005_tamper(), 4, 2, 2);
+        AddItem('E0006', 'Milk frother attachment', 'Attachment for making frothed milk for cappuccinos and lattes', 'accessory', 25, CoffeeExtrasImages.E0006_milkFrother(), 5, 3, 3);
+        AddItem('E0007', 'Portafilter basket', 'Replacement or additional basket for the portafilter', 'accessory', 12, CoffeeExtrasImages.E0007_portaFilterBasket(), 4, 4, 2);
+        AddItem('E0008', 'Knock box for used coffee grounds', 'Container for discarding used coffee grounds', 'accessory', 30, CoffeeExtrasImages.E0008_box(), 6, 6, 6);
+        AddItem('E0009', 'Replacement water filter cartridge', 'Replacement cartridge for the water filtration system in the machine', 'accessory', 8, CoffeeExtrasImages.E0009_waterFilter(), 3, 3, 3);
+        AddItem('E0010', 'Cleaning brush', 'Small brush for cleaning the grouphead, portafilter, and steam wand', 'maintenance', 7, CoffeeExtrasImages.E0010_CleaningBrush(), 8, 2, 1);
+        AddItem('E0011', 'Grouphead cleaning powder', 'Powder for removing coffee oils and residue from the grouphead', 'maintenance', 9, CoffeeExtrasImages.E0011_CleaningPowder(), 6, 3, 3);
+        AddItem('E0012', 'Steam wand cleaning solution', 'Solution for removing milk residue from the steam wand', 'maintenance', 12, CoffeeExtrasImages.E0012_SteamWandcleaningSolution(), 8, 4, 4);
+        AddItem('E0013', 'Drip tray liners', 'Disposable liners for collecting drips and spills from the machine', 'maintenance', 5, CoffeeExtrasImages.E0013_DripTrayLiners(), 5, 5, 0.1);
 
     end;
 
-    procedure AddItem(ItemNumber: Text; ItemName: Text; description: Text; itemCategory: Text; unitPrice: Decimal; itemPicture: Text)
+    procedure AddItem(ItemNumber: Text; ItemName: Text; Description: Text; ItemCategory: Text; UnitPrice: Decimal; ItemPicture: Text; Itemheight: Decimal; ItemWidth: Decimal; ItemDepth: Decimal);
     var
         ItemTempl: Record "Item Templ.";
         ItemRecord: Record Item;
@@ -69,49 +65,52 @@ codeunit 70032 CoffeDemoDataGenerator
         ItemRecord.Get(ItemNumber);
         ItemRecord.Validate(Description, ItemName);
         ItemRecord.Validate("Unit Price", UnitPrice);
-        ItemRecord.Validate("Item Category Code", itemCategory);
-        ItemRecord.Validate(IsAvialableForFieldWorker, true);
-        ItemRecord.Validate(LongDescription, description);
+        ItemRecord.Validate("Item Category Code", ItemCategory);
+        ItemRecord.Validate(ShowInCoffeeMRApp, true);
+        ItemRecord.Validate(LongDescription, Description);
+        ItemRecord.Validate(itemheight, Itemheight);
+        ItemRecord.Validate(itemWidth, ItemWidth);
+        ItemRecord.Validate(itemDepth, ItemDepth);
         ItemRecord.Modify(true);
 
         AddImageToItem(ItemPicture, ItemRecord);
         AddItemUnitOfMeasure(ItemNumber);
     end;
 
-    procedure AddItemCatagories(description: Text; code: Text)
+    procedure AddItemCatagories(Description: Text; Code: Text)
     var
         itemCatagory: Record "Item Category";
     begin
-        if itemCatagory.Get(code) then
+        if itemCatagory.Get(Code) then
             exit;
 
         itemCatagory.Init();
-        itemCatagory.Validate(description, description);
-        itemCatagory.Validate(Code, code);
+        itemCatagory.Validate(description, Description);
+        itemCatagory.Validate(Code, Code);
         itemCatagory.Insert(true);
     end;
 
-    procedure AddItemUnitOfMeasure(itemNumber: Text)
+    procedure AddItemUnitOfMeasure(ItemNumber: Text)
     var
-        itemUnitOfMeasure: Record "Item Unit of Measure";
-        itemRecord: Record Item;
+        ItemUnitOfMeasure: Record "Item Unit of Measure";
+        ItemRecord: Record Item;
     begin
-        itemUnitOfMeasure.SetRange("Item No.", itemNumber);
-        itemUnitOfMeasure.SetRange(Code, 'PCS');
-        if itemUnitOfMeasure.FindFirst() then
+        ItemUnitOfMeasure.SetRange("Item No.", ItemNumber);
+        ItemUnitOfMeasure.SetRange(Code, 'PCS');
+        if ItemUnitOfMeasure.FindFirst() then
             exit;
 
-        itemUnitOfMeasure.Init();
-        itemUnitOfMeasure.Validate("Item No.", itemNumber);
-        itemUnitOfMeasure.Validate(Code, 'PCS');
-        itemUnitOfMeasure.Insert(true);
+        ItemUnitOfMeasure.Init();
+        ItemUnitOfMeasure.Validate("Item No.", ItemNumber);
+        ItemUnitOfMeasure.Validate(Code, 'PCS');
+        ItemUnitOfMeasure.Insert(true);
 
-        itemRecord.Get(itemNumber);
-        itemRecord.validate("Base Unit of Measure", 'PCS');
-        itemRecord.Modify(true);
+        ItemRecord.Get(ItemNumber);
+        ItemRecord.validate("Base Unit of Measure", 'PCS');
+        ItemRecord.Modify(true);
     end;
 
-    procedure AddImageToItem(Base64Img: Text; var itemRecord: Record Item)
+    procedure AddImageToItem(Base64Img: Text; var ItemRecord: Record Item)
     var
         Base64Convert: Codeunit "Base64 Convert";
         TempBlob: Codeunit "Temp Blob";
@@ -120,7 +119,7 @@ codeunit 70032 CoffeDemoDataGenerator
     begin
         Outstr := TempBlob.CreateOutStream();
         Base64Convert.FromBase64(Base64Img, Outstr);
-        itemRecord.Picture.ImportStream(TempBlob.CreateInStream(), 'Image demo data for Item');
+        ItemRecord.Picture.ImportStream(TempBlob.CreateInStream(), 'Image demo data for Item');
         ItemRecord.Modify(true);
     end;
 }

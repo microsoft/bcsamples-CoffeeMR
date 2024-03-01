@@ -1,5 +1,5 @@
 "'Success Screen' As screen":
-    Fill: =varTheme.brandColor
+    Fill: =varTheme.AppTealLight
 
     conSuccessContent As groupContainer.verticalAutoLayoutContainer:
         Height: =Parent.Height
@@ -10,17 +10,18 @@
         Width: =Parent.Width
         ZIndex: =1
 
-        icnSuccess As icon.Check:
-            Color: =Color.White
-            Height: =Self.Width
-            Icon: =Icon.Check
-            Width: =Parent.Width * 0.3
-            Y: =40
-            ZIndex: =1
+        imgSuccess As image:
+            FillPortions: =1
+            Height: =320
+            Image: ='Coffee MR succes icon'
+            LayoutMinHeight: =320
+            LayoutMinWidth: =320
+            Width: =140
+            ZIndex: =2
 
-    Timer1 As timer:
+    timeSuccess As timer:
         AutoStart: =true
-        Duration: =1000
+        Duration: =3000
         Fill: =RGBA(0, 0, 0, 0)
         Height: =1136
         HoverFill: =Color.Transparent

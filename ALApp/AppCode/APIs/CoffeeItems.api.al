@@ -29,7 +29,7 @@ page 70032 CoffeeItems
                 }
                 field(displayName; Rec.Description)
                 {
-                    Caption = 'DisplayName';
+                    Caption = 'Display Name';
                 }
                 field("unitPrice"; Rec."Unit Price")
                 {
@@ -54,15 +54,15 @@ page 70032 CoffeeItems
                 }
                 field(itemImageText; Rec.Picture)
                 {
-                    Caption = 'Picture reference';
+                    Caption = 'Picture Reference';
                 }
                 field(longDescription; Rec.LongDescription)
                 {
-                    Caption = 'Long description';
+                    Caption = 'Long Description';
                 }
-                field(isAvailableForFieldWorkers; Rec.IsAvialableForFieldWorker)
+                field(showInCoffeeMRApp; Rec.ShowInCoffeeMRApp)
                 {
-                    Caption = 'Is available for field workers';
+                    Caption = 'Show Item In Coffee MR App';
                 }
                 field(picture; NameValueBufferBlob."Value BLOB")
                 {
@@ -75,6 +75,18 @@ page 70032 CoffeeItems
                 field(has3DModel; Has3DModel)
                 {
                     Caption = 'Has 3D Model';
+                }
+                field(ItemHeight; Rec.ItemHeight)
+                {
+                    Caption = 'Item Height';
+                }
+                field(ItemWidth; Rec.ItemWidth)
+                {
+                    Caption = 'Item Width';
+                }
+                field(ItemDepth; Rec.ItemDepth)
+                {
+                    Caption = 'Item Depth';
                 }
             }
         }

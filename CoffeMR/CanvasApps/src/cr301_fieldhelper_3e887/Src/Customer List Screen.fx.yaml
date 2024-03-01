@@ -1,0 +1,217 @@
+"'Customer List Screen' As screen":
+    Fill: =varTheme.AppGray
+    OnVisible: =
+
+    conCustomerList As groupContainer.verticalAutoLayoutContainer:
+        Height: =Parent.Height
+        LayoutAlignItems: =LayoutAlignItems.Stretch
+        LayoutDirection: =LayoutDirection.Vertical
+        LayoutMode: =LayoutMode.Auto
+        Width: =Parent.Width
+        ZIndex: =1
+
+        conCustomerListHeader As groupContainer.manualLayoutContainer:
+            AlignInContainer: =AlignInContainer.SetByContainer
+            Fill: =Color.Transparent
+            FillPortions: =0
+            Height: =varTheme.PageHeader
+            LayoutMinHeight: =112
+            LayoutMinWidth: =250
+            X: =40
+            Y: =40
+            ZIndex: =1
+
+            lblCustomerListHeader As label:
+                Align: =Align.Center
+                Color: =varTheme.TextLight
+                Font: =varTheme.font
+                Height: =varTheme.PageHeader
+                Size: =varTheme.FontSize4
+                Text: ="Who is buying?"
+                Width: =Parent.Width
+                ZIndex: =2
+
+            imgCloseCustomerPage As image:
+                Height: =90
+                Image: ='Coffee MR customerlist dismiss icon'
+                OnSelect: =Navigate('Start Screen', ScreenTransition.UnCoverRight)
+                PaddingBottom: =varTheme.iconPadding
+                PaddingLeft: =varTheme.iconPadding
+                PaddingRight: =varTheme.iconPadding
+                PaddingTop: =varTheme.iconPadding
+                TabIndex: =0
+                Tooltip: ="Close page"
+                Width: =varTheme.iconSize
+                X: =Parent.Width - Self.Width
+                ZIndex: =5
+
+        conCustomerListContent As groupContainer.manualLayoutContainer:
+            AlignInContainer: =AlignInContainer.SetByContainer
+            Height: =225
+            LayoutMinHeight: =112
+            LayoutMinWidth: =250
+            ZIndex: =2
+
+            galCustomers As gallery.galleryVertical:
+                DelayItemLoading: =true
+                Height: =Parent.Height
+                Items: ='customers (v2.0)'
+                Layout: =Layout.Vertical
+                LoadingSpinner: =LoadingSpinner.Data
+                OnSelect: =
+                ShowScrollbar: =false
+                TemplatePadding: =0
+                TemplateSize: =140
+                Width: =Parent.Width - (Self.X *2)
+                X: =30
+                ZIndex: =1
+
+                figCustomerListSeperator As rectangle:
+                    BorderColor: =RGBA(32, 54, 71, 1)
+                    Fill: =ColorFade(Color.White, 50%)
+                    Height: =1
+                    OnSelect: =
+                    Width: =Parent.TemplateWidth
+                    Y: =Parent.TemplateHeight - 3
+                    ZIndex: =1
+
+                conCustomerContent As groupContainer.horizontalAutoLayoutContainer:
+                    Height: =Parent.TemplateHeight
+                    LayoutMode: =LayoutMode.Auto
+                    Width: =Parent.TemplateWidth
+                    ZIndex: =2
+
+                    imgCustomerIcon As image:
+                        Height: =Parent.Height
+                        Image: ='Coffee MR customer icon'
+                        LayoutMinHeight: =320
+                        LayoutMinWidth: =320
+                        PaddingBottom: =20
+                        PaddingLeft: =10
+                        PaddingRight: =20
+                        PaddingTop: =20
+                        X: =Parent.Width/2 - Self.Width/2 - 10
+                        Y: =Parent.Height/2 - Self.Height/2
+                        ZIndex: =1
+
+                    conCustomerLayout As groupContainer.verticalAutoLayoutContainer:
+                        AlignInContainer: =AlignInContainer.SetByContainer
+                        Height: =140
+                        LayoutDirection: =LayoutDirection.Vertical
+                        LayoutJustifyContent: =LayoutJustifyContent.Center
+                        LayoutMinHeight: =112
+                        LayoutMinWidth: =250
+                        LayoutMode: =LayoutMode.Auto
+                        Width: =490
+                        X: =630
+                        ZIndex: =3
+
+                        lblCustomerName As label:
+                            Color: =varTheme.TextLight
+                            Font: =varTheme.font
+                            FontWeight: =FontWeight.Semibold
+                            LayoutMinHeight: =70
+                            LayoutMinWidth: =560
+                            OnSelect: =
+                            Size: =varTheme.FontSize3
+                            Text: =ThisItem.'Display Name'
+                            Width: =Parent.Width
+                            X: =40
+                            ZIndex: =1
+
+                        lblCustomerContact As label:
+                            Color: =varTheme.TextLight
+                            Font: =varTheme.font
+                            LayoutMinHeight: =70
+                            LayoutMinWidth: =560
+                            OnSelect: =
+                            PaddingTop: =15
+                            Size: =varTheme.FontSize3
+                            Text: =ThisItem.'No.'
+                            Width: =Parent.Width
+                            X: =40
+                            ZIndex: =2
+
+                    imgSelectCustomer As image:
+                        Height: =Parent.Height
+                        Image: ='Coffee MR customerlist select icon'
+                        LayoutMinHeight: =320
+                        LayoutMinWidth: =320
+                        OnSelect: =Back(ScreenTransition.UnCoverRight)
+                        PaddingBottom: =Self.PaddingTop
+                        PaddingLeft: =Self.Width/2
+                        PaddingTop: =45
+                        TabIndex: =0
+                        Tooltip: ="Close page"
+                        Width: =varTheme.iconSize
+                        ZIndex: =4
+
+                btnCustomerOverlay As button:
+                    Fill: =RGBA(0, 0, 0, 0)
+                    Height: =Parent.TemplateHeight
+                    HoverFill: =
+                    OnSelect: |
+                        =Clear(colMeasurements);
+                        Set(varSelectedCustomer, ThisItem);
+                        Navigate('Coffee Machines List Screen',ScreenTransition.Cover);
+                    PaddingBottom: =0
+                    PaddingLeft: =0
+                    PaddingRight: =0
+                    PaddingTop: =0
+                    PressedFill: =Color.Transparent
+                    Size: =24
+                    Text: =""
+                    Visible: =Not(varTakeMeasurement)
+                    Width: =Parent.Width
+                    ZIndex: =3
+
+                "btnMRMeasure As 'Measure in MR (preview)'.pcfdataset":
+                    BorderFillColor: =Color.DarkGray
+                    BorderRadius: =0
+                    BorderThickness: =0
+                    BoxDraw: =true
+                    DisabledBorderColor: =RGBA(0, 0, 0, 0)
+                    DisabledContentColor: =RGBA(166, 166, 166, 1)
+                    DisabledFillColor: =RGBA(244, 244, 244, 1)
+                    DisplayMode: =DisplayMode.Edit
+                    DisplayType: ='MeasureInMR.DisplayType'.MSR_Text
+                    EnableShadows: =true
+                    FillColor: =RGBA(0, 0, 0, 0)
+                    FontSize: =80
+                    Height: =Parent.TemplateHeight
+                    HoverBorderColor: =RGBA(0, 0, 0, 0)
+                    HoverContentColor: =ColorFade(varTheme.AppTeal, 20%)
+                    HoverFillColor: =Color.Transparent
+                    MeasurementType: ='MeasureInMR.MeasurementType'.Volume
+                    OnMixedRealitySelect: |
+                        =// You can customize to you scenario. Learn more here https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/measure-your-space-in-mixed-reality
+                        Set(varMeasurementObject, {
+                            measurements: First(Self.Measurements),
+                            image: First(Self.Photos)
+                        });
+                        
+                        If(Not(IsBlank(varMeasurementObject.measurements)),
+                            Navigate('Measurement Screen', ScreenTransition.Cover)
+                            ,
+                            Notify("Measurement cancelled");
+                            Navigate('Customer List Screen', ScreenTransition.UnCover)
+                        );
+                    PaddingBottom: =0
+                    PaddingLeft: =0
+                    PaddingRight: =0
+                    PaddingTop: =0
+                    PressedBorderColor: =RGBA(0, 0, 0, 0)
+                    PressedContentColor: =RGBA(255, 255, 255, 1)
+                    PressedFillColor: =Color.Transparent
+                    Text: =""
+                    TextColor: =varTheme.AppTeal
+                    Units: ='MeasureInMR.Units'.MSR_Centimeters
+                    Visible: =varTakeMeasurement
+                    Width: =Parent.TemplateWidth
+                    X: =0
+                    Y: =0
+                    ZIndex: =4
+
+            comCustomerListBigDividerBlack As comBigDividerBlack:
+                ZIndex: =3
+

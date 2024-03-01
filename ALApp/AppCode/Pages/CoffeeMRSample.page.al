@@ -9,14 +9,24 @@ page 70030 "Coffee MR Sample"
     {
         area(Content)
         {
-            label(Processing)
+            label(Description)
             {
-                Caption = 'This is a sample page to generate and delete data for the Coffee MR sample.';
+                Caption = 'This is a sample page to simplify the generation and management of demo data for the Coffee MR sample. To use the mixed reality model rendering, you have to upload a 3D model to the using the Business Central Item page.';
+                ApplicationArea = All;
             }
-
-            part(PowerAppItems; CoffeeItemsListPart)
+            field(SampleAppDocumentation; SampleAppDocumentationLabel)
             {
-                Caption = 'Coffee machines and extras';
+                ApplicationArea = All;
+                ShowCaption = false;
+
+                trigger OnDrillDown()
+                begin
+                    Hyperlink('https://github.com/microsoft/bcsamples-CoffeeMR/?tab=readme-ov-file#preview-business-central-samples---coffee-mr');
+                end;
+            }
+            part(CoffeeItemsList; CoffeeItemsListPart)
+            {
+                Caption = 'Coffee MR Items';
             }
         }
     }
@@ -28,13 +38,16 @@ page 70030 "Coffee MR Sample"
             actionref(PromotedGenerateTestData; GenerateTestData)
             {
             }
+            actionref(PromotedItems; Items)
+            {
+            }
         }
         area(Processing)
         {
             action(GenerateTestData)
             {
-                ApplicationArea = All;
                 Caption = 'Generate sample Data';
+                ApplicationArea = All;
                 trigger OnAction()
                 var
                     myCodeUnit: Codeunit CoffeDemoDataGenerator;
@@ -42,6 +55,19 @@ page 70030 "Coffee MR Sample"
                     myCodeUnit.GenerateDemoData();
                 end;
             }
+
+            action(Items)
+            {
+                Caption = 'Go to Items';
+                ApplicationArea = All;
+                trigger OnAction()
+                begin
+                    // Navigate to the Items page
+                    Page.Run(31);
+                end;
+            }
         }
     }
+    var
+        SampleAppDocumentationLabel: Label 'Coffee MR Sample Documentation';
 }
