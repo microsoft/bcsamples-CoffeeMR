@@ -2,13 +2,12 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@PPPreview",
   "powerPlatformSolutionFolder": "CoffeMR",
-  "skipUpgrade": true,
   "environments": [
-    "Dev"
+    "Staging"
   ],
   "DeployToDev": {
-    "environmentName": "sandbox",
+    "environmentName": "staging",
     "companyId": "5736fe89-41bc-ee11-907d-6045bdc8c244",
-    "ppEnvironmentUrl": "https://org77eb6555.crm.dynamics.com"
+    "ppEnvironmentUrl": "https://orgfcb19dd9.crm.dynamics.com/""
   }
 }
