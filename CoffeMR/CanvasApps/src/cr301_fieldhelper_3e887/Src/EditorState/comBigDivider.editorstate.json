@@ -26,6 +26,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "comBigDivider",
+      "OptimizeForDevices": "Off",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
@@ -167,6 +168,7 @@
       "LayoutName": "",
       "MetaDataIDKey": "",
       "Name": "HTMLDivider_1",
+      "OptimizeForDevices": "Off",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [

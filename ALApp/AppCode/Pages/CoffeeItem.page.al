@@ -4,29 +4,49 @@ pageextension 70033 CoffeeItem extends "Item Card"
     {
         addlast(Item)
         {
-            field(IsAvialableForFieldWorker; Rec.IsAvialableForFieldWorker)
+            field(ShowInCoffeeMRApp; Rec.ShowInCoffeeMRApp)
             {
                 ApplicationArea = All;
                 Editable = true;
             }
-
-            field(uploadModel3d; uploadModelLabel)
+            field(ItemHeight; Rec.ItemHeight)
             {
                 ApplicationArea = All;
-                ShowCaption = false;
+                Editable = true;
+            }
+            field(ItemWidth; Rec.ItemWidth)
+            {
+                ApplicationArea = All;
+                Editable = true;
+            }
+            field(ItemDepth; Rec.ItemDepth)
+            {
+                ApplicationArea = All;
+                Editable = true;
+            }
+            field(UploadModel3d; UploadModelLabel)
+            {
+                ApplicationArea = All;
+                Caption = '3D model';
                 Editable = false;
+                ToolTip = '3D model that can be rendering inside CoffeeMR see more information about the 3Dmodel under learn more here: https://learn.microsoft.com/en-us/dynamics365/mixed-reality/guides/3d-content-guidelines/optimize-models';
+
                 trigger OnDrillDown()
                 var
-                    model3DStream: InStream;
-                    model3DOutStream: OutStream;
-                    fromFile: Text;
+                    Model3DStream: InStream;
+                    Model3DOutStream: OutStream;
+                    FromFile: Text;
                 begin
-                    if UploadIntoStream('Upload 3D model', '', '', fromFile, model3DStream)
+                    if UploadIntoStream('Upload 3D model', '', '', FromFile, Model3DStream)
                     then begin
                         Clear(Rec.Model3D);
-                        Rec.Model3D.CreateOutStream(model3DOutStream);
-                        CopyStream(model3DOutStream, model3DStream);
+                        Rec.Model3D.CreateOutStream(Model3DOutStream);
+                        CopyStream(Model3DOutStream, Model3DStream);
                         Rec.Modify(true);
+
+                        // Recalculate the label and don't save
+                        CurrPage.Update(false);
+
                         Message('Model uploaded successfully');
                     end
                     else
@@ -40,11 +60,11 @@ pageextension 70033 CoffeeItem extends "Item Card"
     begin
         Rec.SetAutoCalcFields(Model3D);
 
-        uploadModelLabel := 'Upload model';
+        UploadModelLabel := 'Upload';
         if Rec.Model3D.HasValue then
-            uploadModelLabel := 'Overwrite model';
+            UploadModelLabel := 'Overwrite';
     end;
 
     var
-        uploadModelLabel: Text;
+        UploadModelLabel: Text;
 }

@@ -2,7 +2,7 @@ page 70031 CoffeeItemsListPart
 {
     PageType = ListPart;
     SourceTable = Item;
-    SourceTableView = where(IsAvialableForFieldWorker = const(true));
+    SourceTableView = where(ShowInCoffeeMRApp = const(true));
 
     layout
     {
@@ -14,15 +14,27 @@ page 70031 CoffeeItemsListPart
                 {
                     ApplicationArea = All;
                 }
-                field(ItemName; Rec.Description)
+                field(Description; Rec.Description)
                 {
                     ApplicationArea = All;
                 }
-                field(ItemPrice; Rec."Unit Price")
+                field(UnitPrice; Rec."Unit Price")
                 {
                     ApplicationArea = All;
                 }
                 field("Item Category Code"; Rec."Item Category Code")
+                {
+                    ApplicationArea = All;
+                }
+                field(ItemHeight; Rec.ItemHeight)
+                {
+                    ApplicationArea = All;
+                }
+                field(ItemWidth; Rec.ItemWidth)
+                {
+                    ApplicationArea = All;
+                }
+                field(ItemDepth; Rec.ItemDepth)
                 {
                     ApplicationArea = All;
                 }

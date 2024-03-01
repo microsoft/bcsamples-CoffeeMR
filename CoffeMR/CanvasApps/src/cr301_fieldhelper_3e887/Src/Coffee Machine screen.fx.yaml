@@ -1,106 +1,239 @@
 "'Coffee Machine screen' As screen":
-    Fill: =varTheme.brandColor
+    Fill: =varTheme.AppLight
 
-    Image6 As image:
-        BorderColor: =RGBA(237, 237, 237, 1)
-        BorderThickness: =1
-        Height: =431
-        Image: =varSelectedCoffeeMachine.Picture
-        ImagePosition: =ImagePosition.Fill
-        RadiusBottomLeft: =20
-        RadiusBottomRight: =20
-        RadiusTopLeft: =20
-        RadiusTopRight: =20
-        Width: =488
-        X: =76
-        Y: =185
-        ZIndex: =1
-
-    Button3_1 As button:
-        BorderThickness: =0
-        Color: =varTheme.brandColor
-        Fill: =Color.White
-        Height: =70
-        HoverColor: =ColorFade(varTheme.brandColor, 20%)
-        HoverFill: =Color.White
-        OnSelect: |-
-            =Clear(colSelectedItems);
-            Clear(colOrderSummary);
-            Navigate('Extras List Screen', ScreenTransition.Cover);
-        Size: =24
-        Text: ="Select"
-        Width: =393
-        X: =123
-        Y: =940
-        ZIndex: =2
-
-    conCoffeeHeader As groupContainer.manualLayoutContainer:
-        Fill: =varTheme.brandColor
-        Height: =80
+    conCoffeeMachine As groupContainer.verticalAutoLayoutContainer:
+        Height: =Parent.Height
+        LayoutAlignItems: =LayoutAlignItems.Center
+        LayoutDirection: =LayoutDirection.Vertical
+        LayoutMode: =LayoutMode.Auto
         Width: =Parent.Width
-        ZIndex: =3
+        ZIndex: =6
 
-        Label4_7 As label:
-            Align: =Align.Center
-            Color: =RGBA(255, 255, 255, 1)
-            Font: =Font.'Segoe UI'
-            Height: =Parent.Height
-            Size: =24
-            Text: =varSelectedCoffeeMachine.DisplayName
+        conCoffeeHeader As groupContainer.manualLayoutContainer:
+            AlignInContainer: =AlignInContainer.SetByContainer
+            Fill: =Color.Transparent
+            FillPortions: =0
+            Height: =varTheme.PageHeader
+            LayoutMinHeight: =112
+            LayoutMinWidth: =250
             Width: =Parent.Width
+            ZIndex: =1
+
+            lblCoffeeMachineName As label:
+                Align: =Align.Center
+                Font: =varTheme.font
+                Height: =Parent.Height
+                Size: =varTheme.FontSize4
+                Text: ="Product details"
+                Width: =Parent.Width
+                ZIndex: =3
+
+            imgCoffeeMachineBack As image:
+                Height: =90
+                Image: ='Coffee MR general top back arrow'
+                OnSelect: =Back(ScreenTransition.UnCoverRight)
+                PaddingBottom: =varTheme.iconPadding
+                PaddingLeft: =varTheme.iconPadding
+                PaddingRight: =varTheme.iconPadding
+                PaddingTop: =varTheme.iconPadding
+                TabIndex: =0
+                Tooltip: ="Close page"
+                Width: =varTheme.iconSize
+                ZIndex: =5
+
+        comSelectItemsDividerCoffeePage As comBigDivider:
+            Fill: =Color.Transparent
+            Height: =16
+            LayoutMinHeight: =640
+            Width: =Parent.Width
+            Y: =conCoffeeHeader.Height
+            ZIndex: =2
+
+        conCoffeeMainDetails As groupContainer.verticalAutoLayoutContainer:
+            AlignInContainer: =AlignInContainer.Center
+            FillPortions: =0
+            Height: =120
+            LayoutAlignItems: =LayoutAlignItems.Center
+            LayoutDirection: =LayoutDirection.Vertical
+            LayoutMinHeight: =112
+            LayoutMinWidth: =250
+            LayoutMode: =LayoutMode.Auto
+            PaddingTop: =10
+            Width: =Parent.Width - 60
             ZIndex: =3
 
-        Icon4_2 As icon.ChevronLeft:
-            Color: =RGBA(255, 255, 255, 1)
-            Height: =Parent.Height
-            Icon: =Icon.ChevronLeft
-            OnSelect: =Back(ScreenTransition.UnCoverRight)
-            PaddingBottom: =20
-            PaddingLeft: =20
-            PaddingRight: =20
-            PaddingTop: =20
-            Width: =Self.Height
+            lblCoffeeMachineDetailsName As label:
+                AutoHeight: =true
+                Font: =varTheme.font
+                FontWeight: =FontWeight.Semibold
+                Height: =70
+                LayoutMinHeight: =70
+                LayoutMinWidth: =560
+                PaddingBottom: =0
+                PaddingLeft: =0
+                Size: =varTheme.FontSize3
+                Text: =varSelectedCoffeeMachine.displayName
+                Width: =Parent.Width
+                ZIndex: =1
+
+            lblCoffeeMachineDetailsPrice As label:
+                AutoHeight: =true
+                Font: =varTheme.font
+                Height: =70
+                LayoutMinHeight: =70
+                LayoutMinWidth: =560
+                PaddingTop: =0
+                Size: =varTheme.FontSize3
+                Text: =Text(varSelectedCoffeeMachine.unitPrice, varCurrencyFormat, varBcLocale)
+                Width: =Parent.Width
+                ZIndex: =2
+
+        imgSelectedCoffeeMachine As image:
+            BorderColor: =RGBA(237, 237, 237, 1)
+            Height: =431
+            Image: =varSelectedCoffeeMachine.picture
+            ImagePosition: =ImagePosition.Fill
+            LayoutMinHeight: =320
+            LayoutMinWidth: =320
+            RadiusBottomLeft: =20
+            RadiusBottomRight: =20
+            RadiusTopLeft: =20
+            RadiusTopRight: =20
+            Width: =488
+            X: =76
+            Y: =185
             ZIndex: =4
 
-    comSelectItemsDividerCoffeePage As comBigDivider:
-        Fill: =Color.Transparent
-        Height: =16
-        Width: =Parent.Width
-        Y: =conCoffeeHeader.Height
-        ZIndex: =4
+        conCoffeeSubDetails As groupContainer.verticalAutoLayoutContainer:
+            AlignInContainer: =AlignInContainer.Center
+            Height: =100
+            LayoutAlignItems: =LayoutAlignItems.Center
+            LayoutDirection: =LayoutDirection.Vertical
+            LayoutJustifyContent: =LayoutJustifyContent.Center
+            LayoutMinHeight: =112
+            LayoutMinWidth: =250
+            LayoutMode: =LayoutMode.Auto
+            Width: =Parent.Width - 60
+            ZIndex: =5
 
-    "ViewInMR1 As 'View in MR (preview)'.pcfdataset":
-        BorderFillColor: =RGBA(47, 81, 151, 1)
-        BorderThickness: =0
-        Disabled: =Not(varSelectedCoffeeMachine.'Has 3D Model')
-        DisabledBorderColor: =RGBA(166, 166, 166, 1)
-        DisabledContentColor: =RGBA(166, 166, 166, 1)
-        DisabledFillColor: =RGBA(244, 244, 244, 1)
-        DisplayMode: =DisplayMode.Edit
-        FillColor: =RGBA(255, 255, 255, 1)
-        Height: =70
-        HoverBorderColor: =RGBA(255, 255, 255, 1)
-        HoverContentColor: =ColorFade(varTheme.brandColor, 20%)
-        HoverFillColor: =RGBA(255, 255, 255, 1)
-        ObjectDepth: =0
-        ObjectHeight: =0
-        ObjectWidth: =0
-        PressedBorderColor: =RGBA(255, 255, 255, 1)
-        PressedContentColor: =RGBA(56, 96, 178, 1)
-        PressedFillColor: =RGBA(255, 255, 255, 1)
-        Source: =varSelectedCoffeeMachine.'3D Model'
-        TextColor: =varTheme.brandColor
-        Width: =393
-        X: =123
-        Y: =779
-        ZIndex: =5
+            lblSubDetailsHeader As label:
+                AutoHeight: =true
+                Color: =varTheme.TextDark
+                Font: =varTheme.font
+                FontWeight: =FontWeight.Semibold
+                Height: =70
+                LayoutMinHeight: =70
+                LayoutMinWidth: =560
+                PaddingLeft: =0
+                PaddingRight: =0
+                Size: =varTheme.FontSize2
+                Text: ="Measurements"
+                Width: =Parent.Width
+                ZIndex: =1
 
-    Image1 As image:
-        Height: =1136
-        Image: =First(ViewInMR1.Photos).ImageURI
-        OnSelect: |-
-            =UpdateContext({ctxShowCapturedImage:false});
-        Visible: =ctxShowCapturedImage
-        Width: =640
-        ZIndex: =7
+            lblSubDetailsValue As label:
+                AutoHeight: =true
+                Color: =varTheme.TextDark
+                Font: =varTheme.font
+                Height: =70
+                LayoutMinHeight: =70
+                LayoutMinWidth: =560
+                PaddingLeft: =0
+                PaddingRight: =0
+                Size: =varTheme.FontSize2
+                Text: |-
+                    ="w: " & varSelectedCoffeeMachine.ItemWidth & "cm, " & " h: " & varSelectedCoffeeMachine.ItemHeight & "cm, " & " d: " &varSelectedCoffeeMachine.ItemDepth& "cm"
+                Width: =Parent.Width
+                ZIndex: =2
+
+        conCoffeeActions As groupContainer.verticalAutoLayoutContainer:
+            Height: =100
+            LayoutAlignItems: =LayoutAlignItems.Center
+            LayoutDirection: =LayoutDirection.Vertical
+            LayoutGap: =50
+            LayoutJustifyContent: =LayoutJustifyContent.Center
+            LayoutMinHeight: =Parent.Height - 800
+            LayoutMinWidth: =250
+            LayoutMode: =LayoutMode.Auto
+            ZIndex: =7
+
+            "ViewInMRControl As 'View in MR (preview)'.pcfdataset":
+                BorderFillColor: =RGBA(0, 0, 0, 1)
+                BorderRadius: =40
+                BorderThickness: =2
+                Disabled: =Not(varSelectedCoffeeMachine.has3DModel)
+                DisabledBorderColor: =RGBA(0, 0, 0, 1)
+                DisabledContentColor: =varTheme.TextDark
+                DisabledFillColor: =RGBA(0, 0, 0, 0)
+                DisplayMode: =DisplayMode.Edit
+                DisplayType: ='ViewInMR.DisplayType'.ARV_IconText
+                FillColor: =RGBA(0, 0, 0, 0)
+                Font: =varTheme.font
+                FontSize: =varTheme.FontSize1
+                FontWeight: =FontWeight.Semibold
+                Height: =varTheme.ButtonHeight
+                HoverBorderColor: =RGBA(0, 0, 0, 1)
+                HoverContentColor: =varTheme.TextDark
+                HoverFillColor: =RGBA(0, 0, 0, 0)
+                LayoutMinHeight: =70
+                LayoutMinWidth: =280
+                ObjectDepth: =varSelectedCoffeeMachine.ItemDepth
+                ObjectHeight: =varSelectedCoffeeMachine.ItemHeight
+                ObjectWidth: =varSelectedCoffeeMachine.ItemWidth
+                PaddingTop: =0
+                PressedBorderColor: =RGBA(0, 0, 0, 1)
+                PressedContentColor: =varTheme.TextDark
+                PressedFillColor: =RGBA(0, 0, 0, 0)
+                Source: =varSelectedCoffeeMachine.model3D
+                Text: ="View product in MR"
+                TextColor: =varTheme.TextDark
+                Units: ='ViewInMR.Units'.AR_Centimeters
+                Width: =varTheme.ButtonSizeBig
+                X: =40
+                Y: =42
+                ZIndex: =1
+
+            btnSelectCoffeeMachine As button:
+                BorderThickness: =0
+                Color: =varTheme.TextLight
+                Fill: =varTheme.AppTeal
+                Font: =varTheme.font
+                Height: =varTheme.ButtonHeight
+                HoverColor: =Color.White
+                HoverFill: =ColorFade(Self.Fill, 20%)
+                LayoutMinHeight: =70
+                LayoutMinWidth: =280
+                OnSelect: |-
+                    =ClearCollect(colSelectedItems, 
+                        {
+                            id: varSelectedCoffeeMachine.id,
+                            name: varSelectedCoffeeMachine.displayName,
+                            price: varSelectedCoffeeMachine.unitPrice,
+                            group: "Coffee Machine",
+                            quantity: 1,
+                            // Use placeholder image if the image is not provided
+                            image: If(
+                                varSelectedCoffeeMachine.itemImageText = GUID("00000000-0000-0000-0000-000000000000"),
+                                placeholder,
+                                varSelectedCoffeeMachine.picture
+                            )
+                        }
+                    );
+                    
+                    
+                    Clear(colOrderSummary);
+                    Navigate('Extras List Screen', ScreenTransition.Cover);
+                PaddingTop: =0
+                PressedColor: =Color.White
+                PressedFill: =ColorFade(Self.Fill, 20%)
+                RadiusBottomLeft: =40
+                RadiusBottomRight: =40
+                RadiusTopLeft: =40
+                RadiusTopRight: =40
+                Size: =varTheme.FontSize1
+                Text: ="Add to order"
+                Width: =varTheme.ButtonSizeBig
+                X: =40
+                Y: =42
+                ZIndex: =2
 
